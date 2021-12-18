@@ -1,0 +1,155 @@
+{
+    "Header": {
+        "1": "Ana Sayfa",
+         "2": "Hakkımızda",
+         "3":"Galeri",
+         "4":"Şirket Profili",
+         "5":"Ürünler",
+         "6":"Haberler",
+         "7":"İletişim"
+    },
+    "Footer":{
+        "1":"Bizi Takip Edin",
+        "2":"TELİF HAKKI",
+        "3":"Tasarlayan ve Kodlayan"
+    },
+    "Home":{
+        "1":"SINIRLI SORUMLULUK ŞİRKETİ",
+        "2":"Üretilen ipliğin tüm üretim döngüsü boyunca sıkı kalite kontrolü yapılır. Hammaddeden bitmiş ipliğe kadar üretimin her aşamasındaki ürünler, teşebbüsün laboratuvarında Techtechno Almanya firmasının cihazlarında test edilir. ",
+        "3":"İstatistiklerimiz",
+        "4":"hektar",
+        "5":"Ham pamuk ekimi - 35.000 hektar",
+        "6":"ton",
+        "7":"Pamuk çırçırlama - yılda 20.000 ton",
+        "8":"İplik üretimi - yılda 35.000 ton",
+        "9":"Sert örme kumaş - yılda 10 800 ton",
+        "Home":{
+             "1":"Mükemmellik ve Kalite",
+             "2":"Sürekli Kalite",
+             "3":"Müşterilerimizi memnun etmek ve sadakatlerini korumak için kalite çok önemlidir",
+             "4":"Harika Tasarım",
+             "5": "Sizin için yeni tasarımlar yapıp dikebiliriz",
+             "6":"Daha Hızlı Teslim Süresi",
+             "7":"Malların müşteriye sevkiyatına kadar bir ürünü termin tarihine kadar tamamlayabiliriz.",
+             "8":"Sürdürülebilir kalite, yenilikçi ürün yelpazesi, daha hızlı teslim süresi ve verimli hizmetler açısından en büyük tekstil üreticilerinden biri olmak, müşterileri iş ortağımız olarak tutmak"
+        }
+    },
+    "Service": {
+        "1": "SUNDUĞUMUZ HİZMETLER NELERDİR",
+        "2": "İplik üretimi",
+        "3": "Hem doğal hem de sentetik olmak üzere birçok iplik çeşidi vardır. Ancak en çok talep edilen, doğal hammaddelerden yapılan eğirme ipliğidir. Daha...",
+        "Yarn":{
+            "1":"Hem doğal hem de sentetik olmak üzere birçok iplik çeşidi vardır. Ancak en çok talep edilen, doğal hammaddelerden yapılan eğirme ipliğidir. Daha çok çeşitli kumaşların üretimi, bir kişinin gardırobunun unsurları ve hatta ev ürünlerinin imalatı için kullanılır. Doğal hammaddeler ağırlıklı olarak örgü ipliklerinin üretiminde kullanılmaktadır.",
+            "2":"Tabii ki, bu pazarda lider yer, yün ürünleri üretimine odaklanan büyük fabrikalar olmaya devam ediyor. Ancak, ürünleri hem üretilen malların özellikleri hem de kullanılan hammaddeler açısından daha çeşitli olan küçük işletmeler için hala geniş bir pazar alanı bulunmaktadır. Ülkemizde her geçen gün örgü örmeyi sevenlerin sayısı artıyor. Aynı zamanda hem makine örgüsü hem de el örgüsü için ipliğe olan talep de hızla artıyor.",
+            "3":"Ve şimdi birçok örgü sever, yüksek kaliteli malzeme ile vasat saygınlıktaki ürünler arasındaki fark konusunda çok bilgili. Giyimde en son moda trendlerinin dikkate alındığı, ürün kalitesinin sıkı kontrolünün kurulduğu satışlarda yalnızca dokuma endüstrisinin işletmeleri liderdir."
+        },
+        "4": "örgü kumaş",
+        "5": "Örme, bir veya daha fazla ipliği ilmek haline getirerek ve ilmekleri basit aletler kullanarak - elle (kroşe, iğne, iğne, çatal) birbirine bağlayarak...",
+        "Knitting":{
+            "1":"Örme, bir veya daha fazla ipliği ilmek haline getirerek ve ilmekleri basit aletler kullanarak - elle (kroşe, iğne, iğne, çatal) birbirine bağlayarak kumaş veya ürünleri (genellikle giysi veya iç eşya elemanları) yapma işlemidir. veya sadece parmaklarda) veya bir örgü makinesinde (mekanik örgü).",
+            "2":"Bir teknik olarak örgü, dokuma türlerine aittir, giyim eşyası (çorap, eldiven, şapka) ve keten (peçete, masa örtüsü, perde) imalatında, iç dekorasyonda kullanılır.",
+            "3":"Ana ilmek türleri ön, ters, iplik, kenardır. Onların yardımıyla, çok çeşitli örme desenler yaratılır."
+        },
+        "6": "Bitmiş ürünlerin dikilmesi",
+        "7": "Bugün hazır giyim endüstrisi, çeşitli stil ve tonlarda sunulan çeşitli modern giysilerle pazarı doldurmuştur. Ticaret ağı, farklı yaş kategorileri ...",
+        "Sewing":{
+            "1":"Bugün hazır giyim endüstrisi, çeşitli stil ve tonlarda sunulan çeşitli modern giysilerle pazarı doldurmuştur. Ticaret ağı, farklı yaş kategorileri için modeller sunar. Terziliğin uzak geçmişte kaldığını düşünmek bir hatadır. Profesyonellerin bireysel sipariş verecekleri çok sayıda dikiş atölyesi var. Ürünleri evde nasıl dikeceğinizi de öğrenebilirsiniz. Ancak sabır ve kaliteli ekipman alacak.",
+            "2":"Kendi elinizle kıyafet yapmak için temel, astar, kaplama malzemelerine ihtiyacınız var. İyi dikiş, operasyonel ve hijyenik özelliklere sahip olmalıdırlar. Malzeme farklı bir bileşime sahip olabilir. Kumaş pamuk, keten, ipek veya yün liflerinden oluşur.",
+            "3":"Naylon veya polyester elyaf içeren malzeme, daha fazla aşınma direncine ve daha az kırışmaya sahiptir. Bu nedenle kumaşlar üç ana kategoriye ayrılabilir: doğal, suni ve sentetik. Tekstil endüstrisi, dikiş ürünleri için kullanılan geniş bir yelpazede farklı malzemeleri piyasaya sundu - pamuk, polyester, jakar, ipek, patiska, şifon, kadife."
+        },
+        "8": "Döner baskı",
+        "9": "Döner baskı, malzemelere güzel ve net görüntüler basmanın modern bir yoludur. Şablon yöntemlerinden birine aittir ve birçok büyük tekstil  ...",
+        "Rotary":{
+            "1":"Döner baskı, malzemelere güzel ve net görüntüler basmanın modern bir yoludur. Şablon yöntemlerinden birine aittir ve birçok büyük tekstil işletmesinde ve fabrikasında kullanılmaktadır.",
+            "2":"En yüksek kalitede görüntüyü basmak için, döner makinenin tasarımının kalbinde özel bir şaft bulunur. Silindir şeklindedir ve baskı işlevi görür. Silecek mekanizması şablonun içinde bulunur. Belirli bir açıyla ayarlanır ve kauçuk veya çelik bıçaklardan oluşur. Boyanın kendisi bir pompa kullanılarak şablonun ortasına beslenir. Döner baskı teknolojisi, mürekkebin verildiği basınç seviyesini kontrol etmenize de olanak tanır. Bir görüntüyü geniş formatta ve büyük hacimlerde yazdırmanız gerekiyorsa, döner yazdırma kullanışlıdır. Bu sadece özel ekipmanla yapılabilir.",
+            "3":"Döner baskı makineleri tabaka beslemeli ve rulo beslemeli olarak ikiye ayrılır. İlk versiyonda, görüntüyü uygulamak için hazır bir malzeme kullanılır, ancak ikinci durumda, kesim doğrudan üretimin son aşamasında gerçekleşecektir."
+        },
+        "10": "Serigrafi ve nakış",
+        "11": "Sadece yazın değil, kışın da parlak şık giysilere ihtiyaç vardır. Bu hem kişisel gardırop hem de iş kıyafetleri, üniformalar için geçerlidir...",
+        "Screen":{
+            "1":"Sadece yazın değil, kışın da parlak şık giysilere ihtiyaç vardır. Bu hem kişisel gardırop hem de iş kıyafetleri, üniformalar için geçerlidir. Tişörtler basittir. Serigrafi baskı ve makine nakışı dahil her türlü uygulamaya mükemmel uyum sağlarlar. Dış giyim hakkında konuşuyorsak, daha karmaşık malzemelerden dikildiği için burada daha ince bir yaklaşıma ihtiyaç vardır. Modern teknolojiler, hemen hemen her kumaşta güzel, parlak bir uygulama yapmayı mümkün kılar.",
+            "2":"Giysi üzerine en yaygın baskı türü serigraf baskıdır. Bu yöntem yüzyıllardır bilinmektedir. Ve günümüzde serigraf baskı en güvenilir uygulama yöntemlerinden biridir. İşlem, malzemeye bir desenin uygulandığı özel şablonların kullanılmasından oluşur. Ön renkli görüntü renklere bölünür. Örneğin, logonuzun üç rengi varsa, onu yazdırmak için üç şablon kullanılacaktır. Her renk bir şablonla preslenir, uygulamadan sonra iyice kurutulur. Bu teknoloji, boyanın kumaşın liflerine derinlemesine nüfuz etmesini ve orada uzun süre kalmasını sağlar."
+        },
+        "12": "İplik ve keten boyama",
+        "13": "İplikler ve iplikler, orijinal, doğal renklerinde nadiren mağaza raflarına çarpar. O zaman neredeyse hiç kimse onlara dikkat etmezdi. Bu nedenle ...",
+        "Dyeing":{
+            "1":"İplikler ve iplikler, orijinal, doğal renklerinde nadiren mağaza raflarına çarpar. O zaman neredeyse hiç kimse onlara dikkat etmezdi. Bu nedenle iplik boyama, üretimlerinin en önemli aşamalarından biridir.",
+            "2":"Renk, farklı lif türlerine uygulanır. Doğal ve sentetik hammaddelerden yapılmış izolasyon ipleri, istenilen sayıda dikiş ipi, nakış ipi ve çok sayıda iplik çeşidi ile şekillendirilebilir.",
+            "3":"İstisnasız tüm lifler boyamadan önce tutkal giderme işlemine tabi tutulur. Alkali sabun çözeltilerine batırılırlar, bu sayede serisin ve diğer gereksiz kirlilikler ipliklerin yüzeyinden çıkarılır. İlk durumda, açık tip koyler-silindir üniteleri olarak adlandırılan özel üniteler kullanılır. Ünitelerin içinde makaralar vardır. Hanks onlara sabitlenir. Silindirler yukarı aşağı dönmeye başlar ve sıvı renklendiricinin bulunduğu haznelerden geçer."
+        },
+        "14":"Daha",
+        "15":"Açıklama",
+        "16":"Kapat"
+    },
+    "Contact": {
+        "1": "Bizimle iletişime geçin",
+        "2": "İLETİŞİM",
+        "3": "Bizi arayın",
+        "4": "Pzt - Cum",
+        "5": "Bizi Arayın",
+        "6": "SOSYAL MEDYA",
+        "7": "Sosyal ağlarda Bizi Bulun",
+        "8": "Bizi Takip Edin",
+        "9": "ADDRESS",
+        "10": "Bizi ofiste bulun",
+        "11": "Özbekistan, Andijan, Altynkul bölgesi, Chinabad caddesi, 1",
+        "12": "Bizi Bulun",
+        "13": "Pazar",
+        "14": "Akşam Yemeği",
+        "15": "İzinli Gün"
+    },
+    "ProductName":{
+        "1":"Polar",
+        "2":"Fullaykra",
+        "3":"Kilitleme",
+        "4":"Jakarlı kumaş",
+        "5":"Kashkorse",
+        "6":"Krep",
+        "7":"LACOSTE",
+        "8":"Mahra",
+        "9":"Baskılı kumaşın",
+        "10":"Örme kumaş petek",
+        "11":"çift taraflı kumaş",
+        "12":"Ribana",
+        "13":"Selanik",
+        "14":"SUPREME",
+        "15":"Capiton kumaş",
+        "16":"Velur",
+        "17":"Suni elyaf",
+        "18":"İnterlok jakarlı",
+        "19":"Openend",
+        "20":"Penye Intyerlock"
+    },
+    "PrdouctP": {
+        "1": "FLis, polyesterden (polyester elyaf) yapılmış, ayrıca termal iletkenliği azaltmak için işlenmiş sentetik bir örgü malzemedir. Böyle bir bileşim, sıcaklık ve neme karşı direnç sağlarken, yumuşak yüzey istenen rahatlığı sağlar. Kumaşın hafifliği de önemli bir faktördür. Yapay kökenli, malzemenin nefes almasını ve dokunuşunun hoş olmasını engellemez. Bu, çocukların bile bir şeyler çıkarmasını mümkün kılar. Diğer kumaşların aksine, polar yüksek düzeyde ısı tutma ve hidrofobikliğe sahiptir. Polar giysiler, büyük miktarda hava tutan yapısı nedeniyle sıcak tutabilir. Ve hidrofobiklik (sentetik liflerin özelliği suyu emmemesi), yapağı ana ve ana özelliğidir. Bu özellikler onu benzer malzemelerden olumlu bir şekilde ayırır.",
+        "2": "Fullaykra - Adından da anlaşılacağı gibi tuhaflığı, elastikiyet ve mukavemet sağlayan likra liflerinin bileşimine dahil edilmesidir. Fullaykra, farklı yönlere mükemmel bir şekilde uzanır, ancak bundan sonra kolayca şeklini alır. Fullaycra'nın uygulama kapsamı diğer pamuklu malzemelerle aynıdır. Ev ve günlük eşyaların, spor ve çocuk giysilerinin, pijamaların, iç çamaşırların ve çok daha fazlasının dikilmesinde kullanılır.",
+        "3": "Interlock - tek şişede inanılmaz yumuşaklık ve dayanıklılık Örme kumaşlar, hafif sanayinin tüm alanlarında kullanılmaktadır. Onları çok yönlü kılan birçok özelliğe sahiptirler. Bu malzemeler kilit içerir. İnterlok - ne tür bir kumaş? Pamuklu örme kumaştır. Yoğun bir yapıya sahiptir ve iyi esnemez. Bu, özel bir çift taraflı dokuma ile elde edilir. İki yüzlü olarak da adlandırılır. Kanvas her iki tarafta da eşit derecede pürüzsüz görünüyor. Kumaşın dış tarafı ve dikişsiz tarafı yoktur. Ancak özel işlemlerle dikey şeritler elde edilebilir.",
+        "4": "Jakarlı kumaş, esasında 24'ten fazla farklı iç içe geçmiş iplik içeren, karmaşık veya basit dokumadan oluşan geniş desenli bir kumaştır.",
+        "5": "Kashkorse, yüksek elastikiyetini belirleyen geniş elastik bantlı örme kumaştır. Kumaşın türüne bağlı olarak% 100 pamuk hammaddesi temelinde yapılır, bileşim çeşitli katkı maddeleri ile doldurulabilir. Vücudun nefes almasını sağlayan ve vücut tarafından salınan fazla nemi uzaklaştıran sıcak elastik bir kumaştır.",
+        "6": "Krep, maksimum bükümle üretilen popüler bir kumaş türüdür. Bazen hazır giyim sektöründe krep dokuma yapılabilir. Bu tekstillerin yapım sürecinde, genellikle, kumaşlara özel bir mukavemet ve yoğunluk kazandıran, belirli bir sırayla sola ve sağa birden fazla iplik bükümü kullanılır.",
+        "7": "Genellikle kumaş isimleri tarihle yakından iç içe geçmiştir. Yani lacoste ile oldu. Bugün, dokunuşa hoş gelen ünlü timsah ve spor giyim ile ilişkilidir. Bu arada, bu tür bir forma doğru bir şekilde pike kumaşı (Fransız piquer'den pike) olarak adlandırılacaktır. Öyleyse neden böyle diyoruz ve bu kumaşın özelliği nedir? 1926'da Fransız tenisçi Rene Lacoste Grand Slam turnuvasını kazandı. Bunda, kendi icat ettiği yeni bir spor kıyafeti tarafından yardım edildi. Tenisçilerin geri kalanı uzun kollu tişörtler giyerken, kendi terzili kolsuz bir ceketle çıktı. Fikir, sporcular ve sadece açık hava etkinlikleri sevenler tarafından anında takdir edildi. Ve Rene, tişört, polo gömlek ve diğer spor giyim üretimi için kendi şirketini açtı. Takma adı Timsah'tı, bu yüzden bu şirketin ürünlerinde ünlü timsah LACOSTE'u görüyoruz.",
+        "8": "Mahra, yüzeyi yığınlardan (çözgü ipliği ilmekleri) oluşan doğal bir kumaştır. Kazık tek (tek taraflı) veya çift (çift taraflı) olabilir. Tek yüzlü ve çift yüzlü kumaşların yanı sıra, havlu yapısında kabartma desenli kumaşlar ve kesilmiş havlı kumaşlar (kesilmiş havlu) bulunmaktadır.",
+        "9": "Baskılı kumaşın yüzeyinde baskılı desen bulunmaktadır. Başlangıçta, baskılı kumaş elle üretildi. Daha sonra kumaş baskı makinelerinde üzerine desen uygulanan tüm kumaşlar baskılı kumaşlar olarak adlandırılmaya başlandı. Eskiden baskılı kumaşlar İtalya ve Almanya'dan getirilirdi. Çizimler yağlı boya, gümüş veya altın tozu ve hatta bazen kırılmış cam ile uygulandı. Sözde topuklu (yani baskılı kumaşlar) imalatında, tahtadan yapılmış damgalar kullanıldı - bunlar genellikle oldukça uzun tahtalardı. Açıktır ki, ateş gibi kumaşların yıkanmaktan korktuğu - su girmesi ve güneşin girmesiyle dökülmeleri - sıcak ışınların etkisi altında kaybolduğu açıktır. Günümüzde baskılı kumaşlar yalnızca endüstriyel yollarla üretilmektedir. Temel, herhangi bir - pamuklu kumaşlar, keten, kalın perdelik kumaşlar ve hatta hafif tül malzemeler olabilir. Bu şekilde bir desen çizerken, kumaşın yapısı bozulmaz ve higroskopiklik, hava geçirgenliği, mukavemet vb. Gibi temel nitelikleri azalmaz.",
+        "10": "Örme kumaş petek, çeşitli bayan giyimlerinin üretiminde yaygın olarak kullanılan örme kumaşlardan biridir. Petek kumaşı, yoğun ve elastik örme sentetik bir kumaştır.",
+        "11": "Bu çift taraflı kumaş, geleneksel düz dokuma ile yapılır, ancak farklı iplik boyutları ile yapılır. Taban ince, düz liflerden yapılmıştır ve atkı iplikleri çok daha kalın (bir buçuk, iki kez) ve daha kabadır, çünkü kanvas hafif bir yara izi ile elde edilir. Avrupa'yı ve ondan sonra tüm dünyayı fetheden keten, günümüzde yatak takımları için en çok talep edilen malzemedir, ancak başka pek çok şey için de kullanılmaktadır.",
+        "12": "Ribana, aile ve ev için doğal bir malzemedir. Dokuma sürecinde elde edilen ürünlere kumaşla hitap edecek olursak, ribana bu kategoride ancak şartlı olarak sıralanabilir. Buna örgü kumaş demek daha doğrudur çünkü farklı bir şekilde elde edilmektedir. Özel örgü makineleri, örgü ve ters ilmekleri değiştirerek ince bir elastik bant oluşturur.",
+        "13": "Selanik, ön yüzü büyük bir silgi, arka yüzü alttan kesik, doğal pamuktan üretilmiş yoğun örme kumaştır. Selanik kıyafetleri çok yumuşak ve dokunuşu hoş. Bu tür çocuk kıyafetlerinin imalatında kullanılır: kazaklar, çocuk pantolonları. Yumuşak dokunuşlu Selanic ürünleri giymesi ve temizlemesi kolaydır. Selanik, pamuk ve sentetik elyaftan üretilmiş örme kumaştır. Selanik aynı zamanda spor giyim yapımında da kullanılmaktadır. Kanvasın bileşimi% 100 pamuk, polyester ile pamuk, akriliktir. ",
+        "14": "SUPREME - ince, dokunuşu hoş, büzgü ipli dokuma ile çok yüksek kalitede pamuklu jarse (% 100 pamuk). Suprem yüzmez, havanın geçmesine izin verir, iyi esner ve iyi giyer, bu nedenle esas olarak en küçük çocuklar için koleksiyonların yanı sıra tişörtler ve daha büyük çocuklar için dikiş koleksiyonlarında kullanılır. Süprem düz renkli ve beyaz zemin üzerine desenli olabilir. Tüm kullanışlı nitelikler, üstünlüğü yazın en çok tercih edilen kılar.",
+        "15": "Capiton kumaş, doğal pamuktan üretilmiş yoğun ve yumuşak tuşeli örme kumaştır. Kapiton, vücudu iyi ısıtan hacimli ve ısıtılmış bir jarse. Kapiton kumaş, ısı koruma özellikleri açısından alt kısım kumaşından daha sıcaktır.",
+        "16": "Velur, kadifeden biraz daha uzun tüylü, yün iplikten yapılmış saf yünlü, fırçalanmış bir kumaştır. Üretim yöntemine göre bu kadife kesik olarak adlandırılır. Kadife, araba koltuklarının döşemesinden ve koltukların döşemesinden alışılmadık tarzlarda moda kıyafetler yaratmaya kadar çok çeşitli ihtiyaçlar için harika bir malzemedir.",
+        "17": "Doğal selülozun işlenmesiyle elde edilen suni elyaf. Tekstil ve kordon ipleri ve kesikli elyaflar şeklinde üretilmektedir. Viskon elyaf, pratik uygulama bulan ilk insan yapımı elyaflardan biridir: viskon elyaf üretme işlemi 19. yüzyılın sonunda geliştirilmiştir ve hala minimum modifikasyonlarla kullanılmaktadır.",
+        "18":"İnterlok jakarlı örgüler yuvarlak örgü makinelerinde üretilmektedirler. Çok geniş desen yelpazesine sahip bir kumaş türüdür. Ön ve arka yüzey arasında hava olduğundan, diğer kumaş türlerine göre daha iyi ısı yalıtım özelliğine sahiptir. Temel olarak ribana jakar sisteminden fazla bir farkı yoktur. Kumaşın ön yüzeyinde desen oluşurken arka yüzeyinde kullanılan renkli iplikler karışık olarak yer almaktadır. Yazlık iç giyim, kışlık iç giyim, spor giyim ve tıbbi üst giyimlerde geniş bir kullanım alanına sahiptir."
+    },
+    "Content":{
+        "1":"Dinamik olarak gelişen, modern bir tekstil işletmesi - 2021'de aşağıdaki gibi yatırım bileşenlerinin optimal bir kombinasyonunun sonucu olarak yaratıldı:",
+        "2":"Yüksek Kalite",
+        "3":"Yüksek kaliteli ana hammaddelerin mevcudiyeti - Özbekistan Cumhuriyeti'nin en uygun bölgelerinde yetiştirilen yüksek dereceli pamuk lifi, entegre üretimin geliştirilmesinde temel bir unsurdur;",
+        "4":"Enerji Kaynakları",
+        "5":"Enerji kaynaklarının mevcudiyeti ve yeterliliği;",
+        "6":"Nitelikli Uzmanlar",
+        "7":"Tekstil endüstrisinde kalifiye uzmanların mevcudiyeti;",
+        "8":"Yatırımcılar",
+        "9":"Yatırımcının birikmiş üretim sermayesi;",
+        "10":"Kısa bir üretim döneminde, iplik fabrikamız kaliteli kalın iplik üreticisi olarak yurt içi ve yurt dışı pazarda kendini kanıtlamıştır. Üretimde modern teknolojilerin uygulanması, ürünler için katı gereksinimlerin belirlenmesi ve kalite kontrolüne özel önem verilmesi. Üretimin her aşamasında, BS TEKSTİL FARGONA LLC, modern dünyanın tüketici talebini karşılamak için müşterileri için sürekli olarak yenilikçi fikirler geliştirmektedir."
+    }
+  }
