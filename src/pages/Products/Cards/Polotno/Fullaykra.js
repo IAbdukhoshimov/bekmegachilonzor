@@ -54,6 +54,11 @@ const carouselItems = [
     altText: "",
     caption: "",
   },
+  {
+    src: require("assets/BG/products/Fullaykra/11.jpg").default,
+    altText: "",
+    caption: "",
+  },
   ];
 
 function LDSP4() {
