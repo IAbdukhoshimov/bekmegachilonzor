@@ -147,7 +147,7 @@ function Index() {
                     </CardTitle>
                     <p>
                     Chorbog street 2 -deadlock, house 8, Chilanzar district, Tashkent city, Uzbekistan INDEX 100161
-                      {t("Contact.11")}
+                    
                     </p>
                     <hr />
                     <Button
