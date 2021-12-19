@@ -18,7 +18,22 @@ const carouselItems = [
     src: require("assets/BG/products/Flis/F-3.jpg").default,
     altText: "",
     caption: "",
-  }
+  },
+  {
+    src: require("assets/BG/products/Flis/F-4.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/Flis/F-5.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/Flis/F-6.jpg").default,
+    altText: "",
+    caption: "",
+  },
   ];
 
 function LDSP4() {
