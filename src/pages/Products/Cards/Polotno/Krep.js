@@ -13,7 +13,47 @@ const carouselItems = [
     src: require("assets/BG/products/krep/2.jpg").default,
     altText: "",
     caption: "",
-  }
+  },
+  {
+    src: require("assets/BG/products/krep/3.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/krep/4.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/krep/5.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/krep/6.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/krep/7.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/krep/8.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/krep/9.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/krep/10.jpg").default,
+    altText: "",
+    caption: "",
+  },
   ];
 
 function LDSP4() {

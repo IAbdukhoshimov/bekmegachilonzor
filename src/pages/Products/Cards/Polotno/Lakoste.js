@@ -29,6 +29,31 @@ const carouselItems = [
     altText: "",
     caption: "",
   },
+  {
+    src: require("assets/BG/products/lakoste/6.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/lakoste/7.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/lakoste/8.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/lakoste/9.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/lakoste/10.jpg").default,
+    altText: "",
+    caption: "",
+  },
   ];
 
 function LDSP4() {

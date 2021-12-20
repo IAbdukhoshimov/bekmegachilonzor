@@ -23,7 +23,52 @@ const carouselItems = [
     src: require("assets/BG/products/interlock/4.jpg").default,
     altText: "",
     caption: "",
-  }
+  },
+  {
+    src: require("assets/BG/products/interlock/5.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/interlock/6.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/interlock/7.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/interlock/8.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/interlock/9.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/interlock/10.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/interlock/11.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/interlock/12.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/interlock/13.jpg").default,
+    altText: "",
+    caption: "",
+  },
   ];
 
 function LDSP4() {

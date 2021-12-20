@@ -33,7 +33,27 @@ const carouselItems = [
     src: require("assets/BG/products/Selenik/6.jpg").default,
     altText: "",
     caption: "",
-  }
+  },
+  {
+    src: require("assets/BG/products/Selenik/7.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/Selenik/8.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/Selenik/9.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/Selenik/10.jpg").default,
+    altText: "",
+    caption: "",
+  },
   ];
 
 function LDSP4() {

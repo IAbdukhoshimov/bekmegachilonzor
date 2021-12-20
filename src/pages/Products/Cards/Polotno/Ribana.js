@@ -13,7 +13,62 @@ const carouselItems = [
       src: require("assets/BG/products/ribana/2.jpg").default,
       altText: "",
       caption: "",
-    }
+    },
+    {
+      src: require("assets/BG/products/ribana/3.jpg").default,
+      altText: "",
+      caption: "",
+    },
+    {
+      src: require("assets/BG/products/ribana/4.jpg").default,
+      altText: "",
+      caption: "",
+    },
+    {
+      src: require("assets/BG/products/ribana/5.jpg").default,
+      altText: "",
+      caption: "",
+    },
+    {
+      src: require("assets/BG/products/ribana/6.jpg").default,
+      altText: "",
+      caption: "",
+    },
+    {
+      src: require("assets/BG/products/ribana/7.jpg").default,
+      altText: "",
+      caption: "",
+    },
+    {
+      src: require("assets/BG/products/ribana/8.jpg").default,
+      altText: "",
+      caption: "",
+    },
+    {
+      src: require("assets/BG/products/ribana/9.jpg").default,
+      altText: "",
+      caption: "",
+    },
+    {
+      src: require("assets/BG/products/ribana/10.jpg").default,
+      altText: "",
+      caption: "",
+    },
+    {
+      src: require("assets/BG/products/ribana/11.jpg").default,
+      altText: "",
+      caption: "",
+    },
+    {
+      src: require("assets/BG/products/ribana/12.jpg").default,
+      altText: "",
+      caption: "",
+    },
+    {
+      src: require("assets/BG/products/ribana/13.jpg").default,
+      altText: "",
+      caption: "",
+    },
   ];
 
 function LDSP4() {

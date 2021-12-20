@@ -53,7 +53,22 @@ const carouselItems = [
     src: require("assets/BG/products/jakard/10.jpg").default,
     altText: "",
     caption: "",
-  }
+  },
+  {
+    src: require("assets/BG/products/jakard/11.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/jakard/12.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/jakard/13.jpg").default,
+    altText: "",
+    caption: "",
+  },
   ];
 
 function LDSP4() {

@@ -33,7 +33,17 @@ const carouselItems = [
     src: require("assets/BG/products/suprem/6.jpg").default,
     altText: "",
     caption: "",
-  }
+  },
+  {
+    src: require("assets/BG/products/suprem/7.jpg").default,
+    altText: "",
+    caption: "",
+  },
+  {
+    src: require("assets/BG/products/suprem/8.jpg").default,
+    altText: "",
+    caption: "",
+  },
   ];
 
 function LDSP4() {

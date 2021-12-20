@@ -13,7 +13,27 @@ const carouselItems = [
       src: require("assets/BG/products/kashkorse/2.jpg").default,
       altText: "",
       caption: "",
-    }
+    },
+    {
+      src: require("assets/BG/products/kashkorse/3.jpg").default,
+      altText: "",
+      caption: "",
+    },
+    {
+      src: require("assets/BG/products/kashkorse/4.jpg").default,
+      altText: "",
+      caption: "",
+    },
+    {
+      src: require("assets/BG/products/kashkorse/5.jpg").default,
+      altText: "",
+      caption: "",
+    },
+    {
+      src: require("assets/BG/products/kashkorse/6.jpg").default,
+      altText: "",
+      caption: "",
+    },
   ];
 
 function LDSP4() {
