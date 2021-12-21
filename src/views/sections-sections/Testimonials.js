@@ -27,7 +27,7 @@ const items = [
             <img
               alt="..."
               className="img img-raised rounded"
-              src={require("assets/img/james.jpg").default}
+              src={require("assets/img/james.webp").default}
             ></img>
           </a>
         </div>
@@ -58,7 +58,7 @@ const items = [
             <img
               alt="..."
               className="img img-raised rounded"
-              src={require("assets/img/olivia.jpg").default}
+              src={require("assets/img/olivia.webp").default}
             ></img>
           </a>
         </div>
@@ -105,7 +105,7 @@ function Testimonials() {
           className="testimonials-1 section-image"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/bg19.jpg").default + ")",
+              "url(" + require("assets/img/bg19.webp").default + ")",
           }}
         >
           <Container>
@@ -127,7 +127,7 @@ function Testimonials() {
                       <img
                         alt="..."
                         className="img img-raised"
-                        src={require("assets/img/michael.jpg").default}
+                        src={require("assets/img/michael.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -153,7 +153,7 @@ function Testimonials() {
                       <img
                         alt="..."
                         className="img img-raised"
-                        src={require("assets/img/olivia.jpg").default}
+                        src={require("assets/img/olivia.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -179,7 +179,7 @@ function Testimonials() {
                       <img
                         alt="..."
                         className="img img-raised"
-                        src={require("assets/img/james.jpg").default}
+                        src={require("assets/img/james.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -265,7 +265,7 @@ function Testimonials() {
                       <img
                         alt="..."
                         className="img img-raised rounded"
-                        src={require("assets/img/michael.jpg").default}
+                        src={require("assets/img/michael.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -286,7 +286,7 @@ function Testimonials() {
                       <img
                         alt="..."
                         className="img img-raised rounded"
-                        src={require("assets/img/olivia.jpg").default}
+                        src={require("assets/img/olivia.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -310,7 +310,7 @@ function Testimonials() {
                       <img
                         alt="..."
                         className="img img-raised rounded"
-                        src={require("assets/img/james.jpg").default}
+                        src={require("assets/img/james.webp").default}
                       ></img>
                     </a>
                   </div>

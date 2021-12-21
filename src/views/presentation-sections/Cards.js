@@ -32,7 +32,7 @@ function Cards() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/card3.jpg").default
+                      require("assets/img/presentation-page/card3.webp").default
                     }
                   ></img>
                 </div>
@@ -40,7 +40,7 @@ function Cards() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/card6.jpg").default
+                      require("assets/img/presentation-page/card6.webp").default
                     }
                   ></img>
                 </div>
@@ -48,7 +48,7 @@ function Cards() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/card7.jpg").default
+                      require("assets/img/presentation-page/card7.webp").default
                     }
                   ></img>
                 </div>
@@ -56,7 +56,7 @@ function Cards() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/card5.jpg").default
+                      require("assets/img/presentation-page/card5.webp").default
                     }
                   ></img>
                 </div>
@@ -64,7 +64,7 @@ function Cards() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/card4.jpg").default
+                      require("assets/img/presentation-page/card4.webp").default
                     }
                   ></img>
                 </div>

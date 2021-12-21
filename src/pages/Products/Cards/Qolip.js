@@ -224,7 +224,7 @@ function Qolip({cardImage, items, name, desc}) {
                 </div>
                 <Row className="justify-content-end">
                   <Button className="mr-3" style={{backgroundColor:'#D2A264'}} href='tel:+998903030512'>
-                  <img src="https://img.icons8.com/ios/20/ffffff/phone.png" alt='...'/> {t('Contact.5')}
+                  <img src="https://img.icons8.com/ios/20/ffffff/phone.webp" alt='...'/> {t('Contact.5')}
                   </Button>
                 </Row>
               </Col>

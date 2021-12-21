@@ -29,7 +29,7 @@ function Examples() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/pages/about-us.jpg")
+                      require("assets/img/presentation-page/pages/about-us.webp")
                         .default
                     }
                   ></img>
@@ -41,7 +41,7 @@ function Examples() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/pages/landing.jpg")
+                      require("assets/img/presentation-page/pages/landing.webp")
                         .default
                     }
                   ></img>
@@ -53,7 +53,7 @@ function Examples() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/pages/login.jpg")
+                      require("assets/img/presentation-page/pages/login.webp")
                         .default
                     }
                   ></img>
@@ -65,7 +65,7 @@ function Examples() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/pages/signup.jpg")
+                      require("assets/img/presentation-page/pages/signup.webp")
                         .default
                     }
                   ></img>
@@ -79,7 +79,7 @@ function Examples() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/pages/blog-post.jpg")
+                      require("assets/img/presentation-page/pages/blog-post.webp")
                         .default
                     }
                   ></img>
@@ -91,7 +91,7 @@ function Examples() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/pages/product.jpg")
+                      require("assets/img/presentation-page/pages/product.webp")
                         .default
                     }
                   ></img>
@@ -103,7 +103,7 @@ function Examples() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/pages/profile.jpg")
+                      require("assets/img/presentation-page/pages/profile.webp")
                         .default
                     }
                   ></img>
@@ -117,7 +117,7 @@ function Examples() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/pages/pricing.jpg")
+                      require("assets/img/presentation-page/pages/pricing.webp")
                         .default
                     }
                   ></img>
@@ -129,7 +129,7 @@ function Examples() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/pages/ecommerce.jpg")
+                      require("assets/img/presentation-page/pages/ecommerce.webp")
                         .default
                     }
                   ></img>
@@ -141,7 +141,7 @@ function Examples() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/pages/blog-posts.jpg")
+                      require("assets/img/presentation-page/pages/blog-posts.webp")
                         .default
                     }
                   ></img>
@@ -153,7 +153,7 @@ function Examples() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/pages/contact.jpg")
+                      require("assets/img/presentation-page/pages/contact.webp")
                         .default
                     }
                   ></img>

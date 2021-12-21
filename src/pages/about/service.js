@@ -36,7 +36,7 @@ function Service() {
                 style={{
                   backgroundImage:
                     "url(" +
-                    require("assets/BG/HomePage/ip1.jpg").default +
+                    require("assets/BG/HomePage/ip1.webp").default +
                     ")",
                 }}
               >
@@ -78,7 +78,7 @@ function Service() {
                   <Row>
                     <img
                       alt="..."
-                      src={require("assets/BG/HomePage/ip1.jpg").default}
+                      src={require("assets/BG/HomePage/ip1.webp").default}
                     />
                   </Row>
                   <Row>
@@ -104,7 +104,7 @@ function Service() {
                 data-background-color=""
                 style={{
                   backgroundImage:
-                    "url(" + require("assets/BG/HomePage/i1.jpg").default + ")",
+                    "url(" + require("assets/BG/HomePage/i1.webp").default + ")",
                 }}
               >
                 <div className="info">
@@ -145,7 +145,7 @@ function Service() {
                   <Row>
                     <img
                       alt="..."
-                      src={require("assets/BG/HomePage/i1.jpg").default}
+                      src={require("assets/BG/HomePage/i1.webp").default}
                     />
                   </Row>
                   <Row>
@@ -171,13 +171,13 @@ function Service() {
                 onClick={() => setModal3(true)}
                 style={{
                   backgroundImage:
-                    "url(" + require("assets/BG/HomePage/s1.jpg").default + ")",
+                    "url(" + require("assets/BG/HomePage/s1.webp").default + ")",
                 }}
               >
                 <div className="info">
                   <div className="icon icon-white">
                     <img
-                      src="https://img.icons8.com/small/64/ffffff/feed-paper.png"
+                      src="https://img.icons8.com/small/64/ffffff/feed-paper.webp"
                       alt="icon"
                     />
                   </div>
@@ -215,7 +215,7 @@ function Service() {
                   <Row>
                     <img
                       alt="..."
-                      src={require("assets/BG/HomePage/s1.jpg").default}
+                      src={require("assets/BG/HomePage/s1.webp").default}
                     />
                   </Row>
                   <Row>
@@ -241,7 +241,7 @@ function Service() {
                 data-background-color=""
                 style={{
                   backgroundImage:
-                    "url(" + require("assets/BG/HomePage/b2.jpg").default + ")",
+                    "url(" + require("assets/BG/HomePage/b2.webp").default + ")",
                 }}
               >
                 <div className="info">
@@ -282,7 +282,7 @@ function Service() {
                   <Row>
                     <img
                       alt="..."
-                      src={require("assets/BG/HomePage/b2.jpg").default}
+                      src={require("assets/BG/HomePage/b2.webp").default}
                     />
                   </Row>
                   <Row>
@@ -308,7 +308,7 @@ function Service() {
                 data-background-color=""
                 style={{
                   backgroundImage:
-                    "url(" + require("assets/BG/HomePage/e3.jpg").default + ")",
+                    "url(" + require("assets/BG/HomePage/e3.webp").default + ")",
                 }}
               >
                 <div className="info">
@@ -347,7 +347,7 @@ function Service() {
                   <Row>
                     <img
                       alt="..."
-                      src={require("assets/BG/HomePage/e3.jpg").default}
+                      src={require("assets/BG/HomePage/e3.webp").default}
                     />
                   </Row>
                   <Row>
@@ -373,14 +373,14 @@ function Service() {
                 style={{
                   backgroundImage:
                     "url(" +
-                    require("assets/BG/HomePage/ip4.jpg").default +
+                    require("assets/BG/HomePage/ip4.webp").default +
                     ")",
                 }}
               >
                 <div className="info">
                   <div className="icon icon-white">
                     <img
-                      src="https://img.icons8.com/small/64/ffffff/stitch-marker.png"
+                      src="https://img.icons8.com/small/64/ffffff/stitch-marker.webp"
                       alt="icon"
                     />
                   </div>
@@ -418,7 +418,7 @@ function Service() {
                   <Row>
                     <img
                       alt="..."
-                      src={require("assets/BG/HomePage/ip4.jpg").default}
+                      src={require("assets/BG/HomePage/ip4.webp").default}
                     />
                   </Row>
                   <Row>

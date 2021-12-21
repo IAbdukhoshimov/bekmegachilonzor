@@ -28,20 +28,20 @@ function BasicComponents() {
                 <img
                   alt="..."
                   className="components-macbook"
-                  src={require("assets/img/ipad.png").default}
+                  src={require("assets/img/ipad.webp").default}
                 ></img>
                 <img
                   alt="..."
                   className="table-img"
                   src={
-                    require("assets/img/presentation-page/table.jpg").default
+                    require("assets/img/presentation-page/table.webp").default
                   }
                 ></img>
                 <img
                   alt="..."
                   className="share-btn-img"
                   src={
-                    require("assets/img/presentation-page/share-btn.jpg")
+                    require("assets/img/presentation-page/share-btn.webp")
                       .default
                   }
                 ></img>
@@ -49,7 +49,7 @@ function BasicComponents() {
                   alt="..."
                   className="coloured-card-btn-img"
                   src={
-                    require("assets/img/presentation-page/coloured-card-with-btn.jpg")
+                    require("assets/img/presentation-page/coloured-card-with-btn.webp")
                       .default
                   }
                 ></img>
@@ -57,7 +57,7 @@ function BasicComponents() {
                   alt="..."
                   className="coloured-card-img"
                   src={
-                    require("assets/img/presentation-page/coloured-card.jpg")
+                    require("assets/img/presentation-page/coloured-card.webp")
                       .default
                   }
                 ></img>
@@ -65,7 +65,7 @@ function BasicComponents() {
                   alt="..."
                   className="social-img"
                   src={
-                    require("assets/img/presentation-page/social-row.jpg")
+                    require("assets/img/presentation-page/social-row.webp")
                       .default
                   }
                 ></img>
@@ -73,7 +73,7 @@ function BasicComponents() {
                   alt="..."
                   className="linkedin-btn-img"
                   src={
-                    require("assets/img/presentation-page/linkedin-btn.jpg")
+                    require("assets/img/presentation-page/linkedin-btn.webp")
                       .default
                   }
                 ></img>

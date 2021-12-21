@@ -66,7 +66,7 @@ function LandingPage() {
                     className="image-container image-left"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/bg38.jpg").default + ")",
+                        "url(" + require("assets/img/bg38.webp").default + ")",
                     }}
                   >
                     <p className="blockquote blockquote-info">
@@ -81,7 +81,7 @@ function LandingPage() {
                     className="image-container image-left-bottom"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/bg24.jpg").default + ")",
+                        "url(" + require("assets/img/bg24.webp").default + ")",
                     }}
                   ></div>
                 </Col>
@@ -90,7 +90,7 @@ function LandingPage() {
                     className="image-container image-right"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/bg39.jpg").default + ")",
+                        "url(" + require("assets/img/bg39.webp").default + ")",
                     }}
                   ></div>
                   <h3>
@@ -135,7 +135,7 @@ function LandingPage() {
           className="testimonials-1 section-image"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/bg19.jpg").default + ")",
+              "url(" + require("assets/img/bg19.webp").default + ")",
           }}
         >
           <Container>
@@ -157,7 +157,7 @@ function LandingPage() {
                       <img
                         alt="..."
                         className="img img-raised"
-                        src={require("assets/img/michael.jpg").default}
+                        src={require("assets/img/michael.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -183,7 +183,7 @@ function LandingPage() {
                       <img
                         alt="..."
                         className="img img-raised"
-                        src={require("assets/img/olivia.jpg").default}
+                        src={require("assets/img/olivia.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -209,7 +209,7 @@ function LandingPage() {
                       <img
                         alt="..."
                         className="img img-raised"
-                        src={require("assets/img/james.jpg").default}
+                        src={require("assets/img/james.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -309,7 +309,7 @@ function LandingPage() {
                   className="card-pricing card-background card-raised"
                   style={{
                     backgroundImage:
-                      "url(" + require("assets/img/pricing2.jpg").default + ")",
+                      "url(" + require("assets/img/pricing2.webp").default + ")",
                   }}
                 >
                   <CardBody>

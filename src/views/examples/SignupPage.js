@@ -46,7 +46,7 @@ function SignupPage() {
           className="page-header-image"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/bg18.jpg").default + ")",
+              "url(" + require("assets/img/bg18.webp").default + ")",
           }}
         ></div>
         <div className="content">

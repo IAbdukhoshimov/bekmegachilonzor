@@ -114,7 +114,7 @@ function BlogPost() {
                       className="image-container image-left"
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/bg35.jpg").default + ")",
+                          "url(" + require("assets/img/bg35.webp").default + ")",
                       }}
                     >
                       <p className="blockquote blockquote-info">
@@ -129,7 +129,7 @@ function BlogPost() {
                       className="image-container image-left-bottom"
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/bg29.jpg").default + ")",
+                          "url(" + require("assets/img/bg29.webp").default + ")",
                       }}
                     ></div>
                   </Col>
@@ -139,7 +139,7 @@ function BlogPost() {
                       style={{
                         backgroundImage:
                           "url(" +
-                          require("assets/img/project16.jpg").default +
+                          require("assets/img/project16.webp").default +
                           ")",
                       }}
                     ></div>
@@ -271,7 +271,7 @@ function BlogPost() {
                             <img
                               alt="..."
                               className="img img-raised"
-                              src={require("assets/img/mike.jpg").default}
+                              src={require("assets/img/mike.webp").default}
                             ></img>
                           </a>
                           <div className="ripple-container"></div>
@@ -317,7 +317,7 @@ function BlogPost() {
                             alt="..."
                             className="img-raised"
                             object
-                            src={require("assets/img/james.jpg").default}
+                            src={require("assets/img/james.webp").default}
                           ></Media>
                         </div>
                       </a>
@@ -377,7 +377,7 @@ function BlogPost() {
                             alt="..."
                             className="img-raised"
                             object
-                            src={require("assets/img/michael.jpg").default}
+                            src={require("assets/img/michael.webp").default}
                           ></Media>
                         </div>
                       </a>
@@ -429,7 +429,7 @@ function BlogPost() {
                                 alt="..."
                                 className="img-raised"
                                 object
-                                src={require("assets/img/julie.jpg").default}
+                                src={require("assets/img/julie.webp").default}
                               ></Media>
                             </div>
                           </a>
@@ -487,7 +487,7 @@ function BlogPost() {
                           alt="..."
                           className="img-raised"
                           object
-                          src={require("assets/img/olivia.jpg").default}
+                          src={require("assets/img/olivia.webp").default}
                         ></Media>
                       </div>
                     </a>
@@ -529,7 +529,7 @@ function BlogPost() {
                                 alt="..."
                                 className="img img-raised rounded"
                                 src={
-                                  require("assets/img/examples/card-blog4.jpg")
+                                  require("assets/img/examples/card-blog4.webp")
                                     .default
                                 }
                               ></img>
@@ -603,7 +603,7 @@ function BlogPost() {
                                 alt="..."
                                 className="img img-raised rounded"
                                 src={
-                                  require("assets/img/examples/card-blog6.jpg")
+                                  require("assets/img/examples/card-blog6.webp")
                                     .default
                                 }
                               ></img>

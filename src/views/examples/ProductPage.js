@@ -28,22 +28,22 @@ import FooterSocial from "components/Footers/FooterSocial.js";
 
 const items = [
   {
-    src: require("assets/img/pp-1.jpg").default,
+    src: require("assets/img/pp-1.webp").default,
     altText: "",
     caption: "",
   },
   {
-    src: require("assets/img/pp-2.jpg").default,
+    src: require("assets/img/pp-2.webp").default,
     altText: "",
     caption: "",
   },
   {
-    src: require("assets/img/pp-3.jpg").default,
+    src: require("assets/img/pp-3.webp").default,
     altText: "",
     caption: "",
   },
   {
-    src: require("assets/img/pp-4.jpg").default,
+    src: require("assets/img/pp-4.webp").default,
     altText: "",
     caption: "",
   },
@@ -340,7 +340,7 @@ function ProductPage() {
                       className="image-container image-left"
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/pp-5.jpg").default + ")",
+                          "url(" + require("assets/img/pp-5.webp").default + ")",
                       }}
                     >
                       <p className="blockquote blockquote-info">
@@ -355,7 +355,7 @@ function ProductPage() {
                       className="image-container"
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/bg29.jpg").default + ")",
+                          "url(" + require("assets/img/bg29.webp").default + ")",
                       }}
                     ></div>
                   </Col>
@@ -364,7 +364,7 @@ function ProductPage() {
                       className="image-container image-right"
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/pp-4.jpg").default + ")",
+                          "url(" + require("assets/img/pp-4.webp").default + ")",
                       }}
                     ></div>
                     <h3>
@@ -413,7 +413,7 @@ function ProductPage() {
                       data-background-color=""
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/bg24.jpg").default + ")",
+                          "url(" + require("assets/img/bg24.webp").default + ")",
                       }}
                     >
                       <div className="info">
@@ -444,7 +444,7 @@ function ProductPage() {
                       data-background-color=""
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/bg28.jpg").default + ")",
+                          "url(" + require("assets/img/bg28.webp").default + ")",
                       }}
                     >
                       <div className="info">
@@ -471,7 +471,7 @@ function ProductPage() {
                       data-background-color=""
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/bg25.jpg").default + ")",
+                          "url(" + require("assets/img/bg25.webp").default + ")",
                       }}
                     >
                       <div className="info">
@@ -514,7 +514,7 @@ function ProductPage() {
                       <img
                         alt="..."
                         className="img rounded"
-                        src={require("assets/img/saint-laurent.jpg").default}
+                        src={require("assets/img/saint-laurent.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -562,7 +562,7 @@ function ProductPage() {
                       <img
                         alt="..."
                         className="img rounded"
-                        src={require("assets/img/gucci.jpg").default}
+                        src={require("assets/img/gucci.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -611,7 +611,7 @@ function ProductPage() {
                       <img
                         alt="..."
                         className="img rounded"
-                        src={require("assets/img/wooyoungmi.jpg").default}
+                        src={require("assets/img/wooyoungmi.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -660,7 +660,7 @@ function ProductPage() {
                       <img
                         alt="..."
                         className="img rounded"
-                        src={require("assets/img/saint-laurent1.jpg").default}
+                        src={require("assets/img/saint-laurent1.webp").default}
                       ></img>
                     </a>
                   </div>

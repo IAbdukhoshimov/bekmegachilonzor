@@ -177,7 +177,7 @@ function Javascript() {
                           <img
                             alt="..."
                             className="rounded img-raised"
-                            src={require("assets/img/pricing1.jpg").default}
+                            src={require("assets/img/pricing1.webp").default}
                           ></img>
                         </div>
                       </Col>
@@ -204,7 +204,7 @@ function Javascript() {
                           <img
                             alt="..."
                             className="rounded img-raised"
-                            src={require("assets/img/project9.jpg").default}
+                            src={require("assets/img/project9.webp").default}
                           ></img>
                         </div>
                       </Col>
@@ -248,7 +248,7 @@ function Javascript() {
                       <div className="logo-container">
                         <img
                           alt="..."
-                          src={require("assets/img/now-logo.png").default}
+                          src={require("assets/img/now-logo.webp").default}
                         ></img>
                       </div>
                     </div>

@@ -18,7 +18,7 @@ function Content() {
                   className="img img-raised rounded img-comments rellax"
                   data-rellax-speed="1"
                   src={
-                    require("assets/img/presentation-page/content1.jpg").default
+                    require("assets/img/presentation-page/content1.webp").default
                   }
                 ></img>
                 <img
@@ -26,7 +26,7 @@ function Content() {
                   className="img img-raised rounded img-blog rellax"
                   data-rellax-speed="4"
                   src={
-                    require("assets/img/presentation-page/content4.jpg").default
+                    require("assets/img/presentation-page/content4.webp").default
                   }
                 ></img>
               </div>

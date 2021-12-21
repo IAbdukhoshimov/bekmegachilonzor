@@ -39,7 +39,7 @@ function Components() {
                       <img
                         alt="..."
                         src={
-                          require("assets/img/presentation-page/basic_thumb.jpg")
+                          require("assets/img/presentation-page/basic_thumb.webp")
                             .default
                         }
                       ></img>
@@ -56,7 +56,7 @@ function Components() {
                       <img
                         alt="..."
                         src={
-                          require("assets/img/presentation-page/cards_thumb.jpg")
+                          require("assets/img/presentation-page/cards_thumb.webp")
                             .default
                         }
                       ></img>
@@ -73,7 +73,7 @@ function Components() {
                       <img
                         alt="..."
                         src={
-                          require("assets/img/presentation-page/sections_thumb.jpg")
+                          require("assets/img/presentation-page/sections_thumb.webp")
                             .default
                         }
                       ></img>
@@ -90,7 +90,7 @@ function Components() {
                       <img
                         alt="..."
                         src={
-                          require("assets/img/presentation-page/pages2_thumb.jpg")
+                          require("assets/img/presentation-page/pages2_thumb.webp")
                             .default
                         }
                       ></img>

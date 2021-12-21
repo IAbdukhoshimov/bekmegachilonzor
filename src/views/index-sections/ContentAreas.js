@@ -401,7 +401,7 @@ function ContentAreas() {
                                 <img
                                   alt="..."
                                   src={
-                                    require("assets/img/saint-laurent.jpg")
+                                    require("assets/img/saint-laurent.webp")
                                       .default
                                   }
                                 ></img>
@@ -462,7 +462,7 @@ function ContentAreas() {
                                 <img
                                   alt="..."
                                   src={
-                                    require("assets/img/balmain.jpg").default
+                                    require("assets/img/balmain.webp").default
                                   }
                                 ></img>
                               </div>
@@ -521,7 +521,7 @@ function ContentAreas() {
                               <div className="img-container">
                                 <img
                                   alt="..."
-                                  src={require("assets/img/prada.jpg").default}
+                                  src={require("assets/img/prada.webp").default}
                                 ></img>
                               </div>
                             </td>
@@ -623,7 +623,7 @@ function ContentAreas() {
                             alt="..."
                             className="img-raised"
                             object
-                            src={require("assets/img/marie.jpg").default}
+                            src={require("assets/img/marie.webp").default}
                           ></Media>
                         </div>
                       </a>
@@ -681,7 +681,7 @@ function ContentAreas() {
                                 alt="..."
                                 className="img-raised"
                                 object
-                                src={require("assets/img/michael.jpg").default}
+                                src={require("assets/img/michael.webp").default}
                               ></Media>
                             </div>
                           </a>
@@ -716,7 +716,7 @@ function ContentAreas() {
                             alt="..."
                             className="img-raised"
                             object
-                            src={require("assets/img/olivia.jpg").default}
+                            src={require("assets/img/olivia.webp").default}
                           ></Media>
                         </div>
                       </a>
@@ -768,7 +768,7 @@ function ContentAreas() {
                                 alt="..."
                                 className="img-raised"
                                 object
-                                src={require("assets/img/emily.jpg").default}
+                                src={require("assets/img/emily.webp").default}
                               ></Media>
                             </div>
                           </a>
@@ -824,7 +824,7 @@ function ContentAreas() {
                             alt="..."
                             className="img-raised"
                             object
-                            src={require("assets/img/james.jpg").default}
+                            src={require("assets/img/james.webp").default}
                           ></Media>
                         </div>
                       </a>
@@ -940,7 +940,7 @@ function ContentAreas() {
                           alt="..."
                           className="img-raised"
                           object
-                          src={require("assets/img/james.jpg").default}
+                          src={require("assets/img/james.webp").default}
                         ></Media>
                       </div>
                     </a>
@@ -977,7 +977,7 @@ function ContentAreas() {
                           alt="..."
                           className="img-raised"
                           object
-                          src={require("assets/img/placeholder.jpg").default}
+                          src={require("assets/img/placeholder.webp").default}
                         ></Media>
                       </div>
                     </a>

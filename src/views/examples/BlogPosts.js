@@ -49,7 +49,7 @@ function BlogPosts() {
                   style={{
                     backgroundImage:
                       "url(" +
-                      require("assets/img/project10.jpg").default +
+                      require("assets/img/project10.webp").default +
                       ")",
                   }}
                 >
@@ -125,7 +125,7 @@ function BlogPosts() {
                   style={{
                     backgroundImage:
                       "url(" +
-                      require("assets/img/project11.jpg").default +
+                      require("assets/img/project11.webp").default +
                       ")",
                   }}
                 ></Card>
@@ -138,7 +138,7 @@ function BlogPosts() {
                   style={{
                     backgroundImage:
                       "url(" +
-                      require("assets/img/project12.jpg").default +
+                      require("assets/img/project12.webp").default +
                       ")",
                   }}
                 ></Card>
@@ -183,7 +183,7 @@ function BlogPosts() {
                   style={{
                     backgroundImage:
                       "url(" +
-                      require("assets/img/project13.jpg").default +
+                      require("assets/img/project13.webp").default +
                       ")",
                   }}
                 >
@@ -237,7 +237,7 @@ function BlogPosts() {
                         <img
                           alt="..."
                           className="img rounded img-raised"
-                          src={require("assets/img/bg5.jpg").default}
+                          src={require("assets/img/bg5.webp").default}
                         ></img>
                       </a>
                     </div>
@@ -261,7 +261,7 @@ function BlogPosts() {
                         <img
                           alt="..."
                           className="avatar img-raised"
-                          src={require("assets/img/olivia.jpg").default}
+                          src={require("assets/img/olivia.webp").default}
                         ></img>
                         <span>Anna Spark</span>
                       </div>
@@ -275,7 +275,7 @@ function BlogPosts() {
                         <img
                           alt="..."
                           className="img rounded img-raised"
-                          src={require("assets/img/bg27.jpg").default}
+                          src={require("assets/img/bg27.webp").default}
                         ></img>
                       </a>
                     </div>
@@ -298,7 +298,7 @@ function BlogPosts() {
                         <img
                           alt="..."
                           className="avatar img-raised"
-                          src={require("assets/img/michael.jpg").default}
+                          src={require("assets/img/michael.webp").default}
                         ></img>
                         <span>John Black</span>
                       </div>
@@ -312,7 +312,7 @@ function BlogPosts() {
                         <img
                           alt="..."
                           className="img rounded img-raised"
-                          src={require("assets/img/bg21.jpg").default}
+                          src={require("assets/img/bg21.webp").default}
                         ></img>
                       </a>
                     </div>
@@ -338,7 +338,7 @@ function BlogPosts() {
                         <img
                           alt="..."
                           className="avatar img-raised"
-                          src={require("assets/img/james.jpg").default}
+                          src={require("assets/img/james.webp").default}
                         ></img>
                         <span>James Newman</span>
                       </div>
@@ -354,7 +354,7 @@ function BlogPosts() {
               data-parallax={true}
               style={{
                 backgroundImage:
-                  "url(" + require("assets/img/bg26.jpg").default + ")",
+                  "url(" + require("assets/img/bg26.webp").default + ")",
               }}
             >
               <Container>
@@ -379,7 +379,7 @@ function BlogPosts() {
                               <img
                                 alt="..."
                                 className="img"
-                                src={require("assets/img/olivia.jpg").default}
+                                src={require("assets/img/olivia.webp").default}
                               ></img>
                             </a>
                           </div>
@@ -411,7 +411,7 @@ function BlogPosts() {
                               <img
                                 alt="..."
                                 className="img"
-                                src={require("assets/img/james.jpg").default}
+                                src={require("assets/img/james.webp").default}
                               ></img>
                             </a>
                           </div>

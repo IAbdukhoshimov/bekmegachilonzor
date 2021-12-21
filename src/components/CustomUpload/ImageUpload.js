@@ -4,8 +4,8 @@ import PropTypes from "prop-types";
 
 import { Button } from "reactstrap";
 
-import defaultImage from "assets/img/image_placeholder.jpg";
-import defaultAvatar from "assets/img/placeholder.jpg";
+import defaultImage from "assets/img/image_placeholder.webp";
+import defaultAvatar from "assets/img/placeholder.webp";
 
 function ImageUpload(props) {
   const [file, setFile] = React.useState(null);

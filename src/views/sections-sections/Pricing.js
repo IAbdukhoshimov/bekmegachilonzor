@@ -29,7 +29,7 @@ function Pricing() {
           id="pricing-1"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/pricing1.jpg").default + ")",
+              "url(" + require("assets/img/pricing1.webp").default + ")",
           }}
         >
           <Container>
@@ -217,7 +217,7 @@ function Pricing() {
                   className="card-pricing card-background card-raised"
                   style={{
                     backgroundImage:
-                      "url(" + require("assets/img/pricing2.jpg").default + ")",
+                      "url(" + require("assets/img/pricing2.webp").default + ")",
                   }}
                 >
                   <CardBody>
@@ -292,7 +292,7 @@ function Pricing() {
           id="pricing-3"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/pricing3.jpg").default + ")",
+              "url(" + require("assets/img/pricing3.webp").default + ")",
           }}
         >
           <Container>
@@ -464,7 +464,7 @@ function Pricing() {
           id="pricing-5"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/bg31.jpg").default + ")",
+              "url(" + require("assets/img/bg31.webp").default + ")",
           }}
         >
           <Container>

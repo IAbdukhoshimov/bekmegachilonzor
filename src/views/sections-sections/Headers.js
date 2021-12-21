@@ -25,7 +25,7 @@ import {
 // core components
 const items = [
   {
-    src: "url(" + require("assets/img/bg20.jpg").default + ")",
+    src: "url(" + require("assets/img/bg20.webp").default + ")",
     content: (
       <Row>
         <Col md="5">
@@ -54,7 +54,7 @@ const items = [
     caption: "",
   },
   {
-    src: "url(" + require("assets/img/bg15.jpg").default + ")",
+    src: "url(" + require("assets/img/bg15.webp").default + ")",
     content: (
       <Row>
         <Col className="ml-auto mr-auto text-center" md="8">
@@ -107,7 +107,7 @@ const items = [
     caption: "",
   },
   {
-    src: "url(" + require("assets/img/bg17.jpg").default + ")",
+    src: "url(" + require("assets/img/bg17.webp").default + ")",
     content: (
       <Row>
         <Col className="text-left" md="6">
@@ -265,7 +265,7 @@ function Headers() {
               className="page-header-image"
               style={{
                 backgroundImage:
-                  "url(" + require("assets/img/bg16.jpg").default + ")",
+                  "url(" + require("assets/img/bg16.webp").default + ")",
               }}
             ></div>
             <Container>
@@ -405,7 +405,7 @@ function Headers() {
               className="page-header-image"
               style={{
                 backgroundImage:
-                  "url(" + require("assets/img/bg14.jpg").default + ")",
+                  "url(" + require("assets/img/bg14.webp").default + ")",
               }}
             ></div>
             <Container>

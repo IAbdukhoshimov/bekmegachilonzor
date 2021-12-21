@@ -273,42 +273,42 @@ function Footers() {
                       <img
                         alt="..."
                         className="img img-raised rounded"
-                        src={require("assets/img/olivia.jpg").default}
+                        src={require("assets/img/olivia.webp").default}
                       ></img>
                       <img
                         alt="..."
                         className="img img-raised rounded"
-                        src={require("assets/img/james.jpg").default}
+                        src={require("assets/img/james.webp").default}
                       ></img>
                       <img
                         alt="..."
                         className="img img-raised rounded"
-                        src={require("assets/img/michael.jpg").default}
+                        src={require("assets/img/michael.webp").default}
                       ></img>
                       <img
                         alt="..."
                         className="img img-raised rounded"
-                        src={require("assets/img/emily.jpg").default}
+                        src={require("assets/img/emily.webp").default}
                       ></img>
                       <img
                         alt="..."
                         className="img img-raised rounded"
-                        src={require("assets/img/marie.jpg").default}
+                        src={require("assets/img/marie.webp").default}
                       ></img>
                       <img
                         alt="..."
                         className="img img-raised rounded"
-                        src={require("assets/img/usher.jpg").default}
+                        src={require("assets/img/usher.webp").default}
                       ></img>
                       <img
                         alt="..."
                         className="img img-raised rounded"
-                        src={require("assets/img/mike.jpg").default}
+                        src={require("assets/img/mike.webp").default}
                       ></img>
                       <img
                         alt="..."
                         className="img img-raised rounded"
-                        src={require("assets/img/julie.jpg").default}
+                        src={require("assets/img/julie.webp").default}
                       ></img>
                     </div>
                   </Col>

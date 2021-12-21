@@ -1,61 +1,61 @@
 import React from 'react'
 import CardQolip from '../Qolip'
-import Image from 'assets/BG/products/maxra/1.jpg'
+import Image from 'assets/BG/products/maxra/1.webp'
 import { useTranslation } from 'react-i18next';
 
 const carouselItems = [
   {
-    src: require("assets/BG/products/maxra/1.jpg").default,
+    src: require("assets/BG/products/maxra/1.webp").default,
     altText: "",
     caption: "",
   },
   {
-    src: require("assets/BG/products/maxra/2.jpg").default,
+    src: require("assets/BG/products/maxra/2.webp").default,
     altText: "",
     caption: "",
   },
   {
-    src: require("assets/BG/products/maxra/3.jpg").default,
+    src: require("assets/BG/products/maxra/3.webp").default,
     altText: "",
     caption: "",
   },
   {
-    src: require("assets/BG/products/maxra/4.jpg").default,
+    src: require("assets/BG/products/maxra/4.webp").default,
     altText: "",
     caption: "",
   },
   {
-    src: require("assets/BG/products/maxra/5.jpg").default,
+    src: require("assets/BG/products/maxra/5.webp").default,
     altText: "",
     caption: "",
   },
   {
-    src: require("assets/BG/products/maxra/6.jpg").default,
+    src: require("assets/BG/products/maxra/6.webp").default,
     altText: "",
     caption: "",
   },
   {
-    src: require("assets/BG/products/maxra/7.jpg").default,
+    src: require("assets/BG/products/maxra/7.webp").default,
     altText: "",
     caption: "",
   },
   {
-    src: require("assets/BG/products/maxra/8.jpg").default,
+    src: require("assets/BG/products/maxra/8.webp").default,
     altText: "",
     caption: "",
   },
   {
-    src: require("assets/BG/products/maxra/9.jpg").default,
+    src: require("assets/BG/products/maxra/9.webp").default,
     altText: "",
     caption: "",
   },
   {
-    src: require("assets/BG/products/maxra/10.jpg").default,
+    src: require("assets/BG/products/maxra/10.webp").default,
     altText: "",
     caption: "",
   },
   {
-    src: require("assets/BG/products/maxra/11.jpg").default,
+    src: require("assets/BG/products/maxra/11.webp").default,
     altText: "",
     caption: "",
   },

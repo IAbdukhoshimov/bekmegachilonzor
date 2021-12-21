@@ -46,7 +46,7 @@ function Cards() {
                         <img
                           alt="..."
                           className="avatar img-raised"
-                          src={require("assets/img/julie.jpg").default}
+                          src={require("assets/img/julie.webp").default}
                         ></img>
                         <span>Susan B. Anthony</span>
                       </div>
@@ -64,7 +64,7 @@ function Cards() {
                     <img
                       alt="..."
                       className="img rounded"
-                      src={require("assets/img/project13.jpg").default}
+                      src={require("assets/img/project13.webp").default}
                     ></img>
                   </div>
                   <CardBody>
@@ -103,7 +103,7 @@ function Cards() {
                         <img
                           alt="..."
                           className="avatar img-raised"
-                          src={require("assets/img/olivia.jpg").default}
+                          src={require("assets/img/olivia.webp").default}
                         ></img>
                         <span>Lord Alex</span>
                       </div>
@@ -151,7 +151,7 @@ function Cards() {
                       <img
                         alt="..."
                         className="img rounded"
-                        src={require("assets/img/card-blog2.jpg").default}
+                        src={require("assets/img/card-blog2.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -170,7 +170,7 @@ function Cards() {
                         <img
                           alt="..."
                           className="avatar img-raised"
-                          src={require("assets/img/julie.jpg").default}
+                          src={require("assets/img/julie.webp").default}
                         ></img>
                         <span>Mike John</span>
                       </div>
@@ -195,7 +195,7 @@ function Cards() {
                         <img
                           alt="..."
                           className="avatar img-raised"
-                          src={require("assets/img/james.jpg").default}
+                          src={require("assets/img/james.webp").default}
                         ></img>
                         <span>Tania Andrew</span>
                       </div>
@@ -217,7 +217,7 @@ function Cards() {
                         alt="..."
                         className="img rounded"
                         src={
-                          require("assets/img/examples/card-blog6.jpg").default
+                          require("assets/img/examples/card-blog6.webp").default
                         }
                       ></img>
                     </a>
@@ -251,7 +251,7 @@ function Cards() {
                     <img
                       alt="..."
                       className="img rounded"
-                      src={require("assets/img/card-blog3.jpg").default}
+                      src={require("assets/img/card-blog3.webp").default}
                     ></img>
                   </div>
                   <CardBody>
@@ -275,7 +275,7 @@ function Cards() {
                         <img
                           alt="..."
                           className="avatar img-raised"
-                          src={require("assets/img/james.jpg").default}
+                          src={require("assets/img/james.webp").default}
                         ></img>
                         <span>Devin Coldewey</span>
                       </div>
@@ -293,7 +293,7 @@ function Cards() {
                 className="card-fashion card-background"
                 style={{
                   backgroundImage:
-                    "url(" + require("assets/img/bg26.jpg").default + ")",
+                    "url(" + require("assets/img/bg26.webp").default + ")",
                 }}
               >
                 <CardBody>
@@ -364,7 +364,7 @@ function Cards() {
                   className="card-fashion card-background"
                   style={{
                     backgroundImage:
-                      "url('http://mvpwp.com/demo/nowwp/wp-content/uploads/sites/6/2017/06/a-james-donovan-180375.jpg')",
+                      "url('http://mvpwp.com/demo/nowwp/wp-content/uploads/sites/6/2017/06/a-james-donovan-180375.webp')",
                   }}
                 ></Card>
               </div>
@@ -385,7 +385,7 @@ function Cards() {
                     <img
                       alt="..."
                       className="img rounded"
-                      src={require("assets/img/julie.jpg").default}
+                      src={require("assets/img/julie.webp").default}
                     ></img>
                   </div>
                   <CardBody>
@@ -432,7 +432,7 @@ function Cards() {
                       <img
                         alt="..."
                         className="img img-raised"
-                        src={require("assets/img/mike.jpg").default}
+                        src={require("assets/img/mike.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -479,7 +479,7 @@ function Cards() {
                       <img
                         alt="..."
                         className="img img-raised"
-                        src={require("assets/img/james.jpg").default}
+                        src={require("assets/img/james.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -509,7 +509,7 @@ function Cards() {
                         <img
                           alt="..."
                           className="img img-raised"
-                          src={require("assets/img/olivia.jpg").default}
+                          src={require("assets/img/olivia.webp").default}
                         ></img>
                       </a>
                     </div>
@@ -564,7 +564,7 @@ function Cards() {
                   className="card-background"
                   style={{
                     backgroundImage:
-                      "url(" + require("assets/img/bg1.jpg").default + ")",
+                      "url(" + require("assets/img/bg1.webp").default + ")",
                   }}
                 >
                   <CardBody>
@@ -600,7 +600,7 @@ function Cards() {
                   className="card-background"
                   style={{
                     backgroundImage:
-                      "url(" + require("assets/img/bg3.jpg").default + ")",
+                      "url(" + require("assets/img/bg3.webp").default + ")",
                   }}
                 >
                   <CardBody>
@@ -704,7 +704,7 @@ function Cards() {
                   style={{
                     backgroundImage:
                       "url(" +
-                      require("assets/img/project12.jpg").default +
+                      require("assets/img/project12.webp").default +
                       ")",
                   }}
                 >

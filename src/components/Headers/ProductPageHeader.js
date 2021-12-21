@@ -26,7 +26,7 @@ function ProductPageHeader() {
           className="page-header-image"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/pp-cov.jpg").default + ")",
+              "url(" + require("assets/img/pp-cov.webp").default + ")",
           }}
           ref={pageHeader}
         ></div>

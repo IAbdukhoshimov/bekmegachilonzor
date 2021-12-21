@@ -122,7 +122,7 @@ function AboutUs() {
                     style={{
                       backgroundImage:
                         "url(" +
-                        require("assets/img/project8.jpg").default +
+                        require("assets/img/project8.webp").default +
                         ")",
                     }}
                   >
@@ -226,7 +226,7 @@ function AboutUs() {
                     style={{
                       backgroundImage:
                         "url(" +
-                        require("assets/img/project9.jpg").default +
+                        require("assets/img/project9.webp").default +
                         ")",
                     }}
                   >
@@ -266,7 +266,7 @@ function AboutUs() {
                             <img
                               alt="..."
                               className="img img-raised rounded"
-                              src={require("assets/img/olivia.jpg").default}
+                              src={require("assets/img/olivia.webp").default}
                             ></img>
                           </a>
                         </div>
@@ -319,7 +319,7 @@ function AboutUs() {
                             <img
                               alt="..."
                               className="img img-raised rounded"
-                              src={require("assets/img/emily.jpg").default}
+                              src={require("assets/img/emily.webp").default}
                             ></img>
                           </a>
                         </div>
@@ -380,7 +380,7 @@ function AboutUs() {
                             <img
                               alt="..."
                               className="img img-raised rounded"
-                              src={require("assets/img/james.jpg").default}
+                              src={require("assets/img/james.webp").default}
                             ></img>
                           </a>
                         </div>
@@ -433,7 +433,7 @@ function AboutUs() {
                             <img
                               alt="..."
                               className="img img-raised rounded"
-                              src={require("assets/img/michael.jpg").default}
+                              src={require("assets/img/michael.webp").default}
                             ></img>
                           </a>
                         </div>
@@ -497,35 +497,35 @@ function AboutUs() {
                   <img
                     alt="..."
                     className="rounded img-raised"
-                    src={require("assets/img/bg27.jpg").default}
+                    src={require("assets/img/bg27.webp").default}
                   ></img>
                 </Col>
                 <Col md="4">
                   <img
                     alt="..."
                     className="rounded img-raised"
-                    src={require("assets/img/bg24.jpg").default}
+                    src={require("assets/img/bg24.webp").default}
                   ></img>
                 </Col>
                 <Col md="4">
                   <img
                     alt="..."
                     className="rounded img-raised"
-                    src={require("assets/img/bg28.jpg").default}
+                    src={require("assets/img/bg28.webp").default}
                   ></img>
                 </Col>
                 <Col md="6">
                   <img
                     alt="..."
                     className="rounded img-raised"
-                    src={require("assets/img/project6.jpg").default}
+                    src={require("assets/img/project6.webp").default}
                   ></img>
                 </Col>
                 <Col md="6">
                   <img
                     alt="..."
                     className="rounded img-raised"
-                    src={require("assets/img/project14.jpg").default}
+                    src={require("assets/img/project14.webp").default}
                   ></img>
                 </Col>
               </Row>

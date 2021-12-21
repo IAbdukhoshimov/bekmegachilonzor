@@ -12,7 +12,7 @@ function Image() {
         className="section features-7 section-image"
         style={{
           backgroundImage:
-            "url(" + require("assets/img/bg51.jpg").default + ")",
+            "url(" + require("assets/img/bg51.webp").default + ")",
         }}
       >
         <Container fluid>
@@ -66,7 +66,7 @@ function Image() {
               <div className="image-container">
                 <img
                   alt="..."
-                  src={require("assets/img/ipad3.png").default}
+                  src={require("assets/img/ipad3.webp").default}
                 ></img>
               </div>
             </Col>

@@ -37,7 +37,7 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/header1.jpg").default
+                    require("assets/img/presentation-page/header1.webp").default
                   }
                 ></img>
               </Col>
@@ -45,7 +45,7 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/header2.jpg").default
+                    require("assets/img/presentation-page/header2.webp").default
                   }
                 ></img>
               </Col>
@@ -53,7 +53,7 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/header3.jpg").default
+                    require("assets/img/presentation-page/header3.webp").default
                   }
                 ></img>
                 <img
@@ -61,7 +61,7 @@ function Sections() {
                   className="rellax"
                   data-rellax-speed="4"
                   src={
-                    require("assets/img/presentation-page/pricing5.jpg").default
+                    require("assets/img/presentation-page/pricing5.webp").default
                   }
                 ></img>
               </Col>
@@ -69,45 +69,7 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/header4.jpg").default
-                  }
-                ></img>
-              </Col>
-            </Row>
-            <Row>
-              <Col md="3">
-                <img
-                  alt="..."
-                  src={
-                    require("assets/img/presentation-page/features1.jpg")
-                      .default
-                  }
-                ></img>
-              </Col>
-              <Col md="3">
-                <img
-                  alt="..."
-                  src={
-                    require("assets/img/presentation-page/features2.jpg")
-                      .default
-                  }
-                ></img>
-              </Col>
-              <Col md="3">
-                <img
-                  alt="..."
-                  src={
-                    require("assets/img/presentation-page/features3.jpg")
-                      .default
-                  }
-                ></img>
-              </Col>
-              <Col md="3">
-                <img
-                  alt="..."
-                  src={
-                    require("assets/img/presentation-page/features4.jpg")
-                      .default
+                    require("assets/img/presentation-page/header4.webp").default
                   }
                 ></img>
               </Col>
@@ -117,7 +79,45 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/features5.jpg")
+                    require("assets/img/presentation-page/features1.webp")
+                      .default
+                  }
+                ></img>
+              </Col>
+              <Col md="3">
+                <img
+                  alt="..."
+                  src={
+                    require("assets/img/presentation-page/features2.webp")
+                      .default
+                  }
+                ></img>
+              </Col>
+              <Col md="3">
+                <img
+                  alt="..."
+                  src={
+                    require("assets/img/presentation-page/features3.webp")
+                      .default
+                  }
+                ></img>
+              </Col>
+              <Col md="3">
+                <img
+                  alt="..."
+                  src={
+                    require("assets/img/presentation-page/features4.webp")
+                      .default
+                  }
+                ></img>
+              </Col>
+            </Row>
+            <Row>
+              <Col md="3">
+                <img
+                  alt="..."
+                  src={
+                    require("assets/img/presentation-page/features5.webp")
                       .default
                   }
                 ></img>
@@ -126,7 +126,7 @@ function Sections() {
                   className="rellax"
                   data-rellax-speed="5"
                   src={
-                    require("assets/img/presentation-page/features2.jpg")
+                    require("assets/img/presentation-page/features2.webp")
                       .default
                   }
                 ></img>
@@ -135,7 +135,7 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/features6.jpg")
+                    require("assets/img/presentation-page/features6.webp")
                       .default
                   }
                 ></img>
@@ -144,7 +144,7 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/features7.jpg")
+                    require("assets/img/presentation-page/features7.webp")
                       .default
                   }
                 ></img>
@@ -153,45 +153,7 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/features8.jpg")
-                      .default
-                  }
-                ></img>
-              </Col>
-            </Row>
-            <Row>
-              <Col md="3">
-                <img
-                  alt="..."
-                  src={
-                    require("assets/img/presentation-page/blogpost1.jpg")
-                      .default
-                  }
-                ></img>
-              </Col>
-              <Col md="3">
-                <img
-                  alt="..."
-                  src={
-                    require("assets/img/presentation-page/blogpost2.jpg")
-                      .default
-                  }
-                ></img>
-              </Col>
-              <Col md="3">
-                <img
-                  alt="..."
-                  src={
-                    require("assets/img/presentation-page/blogpost3.jpg")
-                      .default
-                  }
-                ></img>
-              </Col>
-              <Col md="3">
-                <img
-                  alt="..."
-                  src={
-                    require("assets/img/presentation-page/blogpost4.jpg")
+                    require("assets/img/presentation-page/features8.webp")
                       .default
                   }
                 ></img>
@@ -202,7 +164,7 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/blogpost5.jpg")
+                    require("assets/img/presentation-page/blogpost1.webp")
                       .default
                   }
                 ></img>
@@ -211,7 +173,8 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/team1.jpg").default
+                    require("assets/img/presentation-page/blogpost2.webp")
+                      .default
                   }
                 ></img>
               </Col>
@@ -219,7 +182,8 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/team2.jpg").default
+                    require("assets/img/presentation-page/blogpost3.webp")
+                      .default
                   }
                 ></img>
               </Col>
@@ -227,7 +191,43 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/team3.jpg").default
+                    require("assets/img/presentation-page/blogpost4.webp")
+                      .default
+                  }
+                ></img>
+              </Col>
+            </Row>
+            <Row>
+              <Col md="3">
+                <img
+                  alt="..."
+                  src={
+                    require("assets/img/presentation-page/blogpost5.webp")
+                      .default
+                  }
+                ></img>
+              </Col>
+              <Col md="3">
+                <img
+                  alt="..."
+                  src={
+                    require("assets/img/presentation-page/team1.webp").default
+                  }
+                ></img>
+              </Col>
+              <Col md="3">
+                <img
+                  alt="..."
+                  src={
+                    require("assets/img/presentation-page/team2.webp").default
+                  }
+                ></img>
+              </Col>
+              <Col md="3">
+                <img
+                  alt="..."
+                  src={
+                    require("assets/img/presentation-page/team3.webp").default
                   }
                 ></img>
                 <img
@@ -235,7 +235,7 @@ function Sections() {
                   className="rellax"
                   data-rellax-speed="5"
                   src={
-                    require("assets/img/presentation-page/contact1.jpg").default
+                    require("assets/img/presentation-page/contact1.webp").default
                   }
                 ></img>
               </Col>
@@ -245,7 +245,7 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/team4.jpg").default
+                    require("assets/img/presentation-page/team4.webp").default
                   }
                 ></img>
               </Col>
@@ -253,7 +253,7 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/team5.jpg").default
+                    require("assets/img/presentation-page/team5.webp").default
                   }
                 ></img>
               </Col>
@@ -261,7 +261,7 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/projects1.jpg")
+                    require("assets/img/presentation-page/projects1.webp")
                       .default
                   }
                 ></img>
@@ -270,78 +270,7 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/projects2.jpg")
-                      .default
-                  }
-                ></img>
-              </Col>
-            </Row>
-            <Row>
-              <Col md="3">
-                <img
-                  alt="..."
-                  src={
-                    require("assets/img/presentation-page/projects4.jpg")
-                      .default
-                  }
-                ></img>
-              </Col>
-              <Col md="3">
-                <img
-                  alt="..."
-                  src={
-                    require("assets/img/presentation-page/projects5.jpg")
-                      .default
-                  }
-                ></img>
-              </Col>
-              <Col md="3">
-                <img
-                  alt="..."
-                  src={
-                    require("assets/img/presentation-page/pricing1.jpg").default
-                  }
-                ></img>
-              </Col>
-              <Col md="3">
-                <img
-                  alt="..."
-                  src={
-                    require("assets/img/presentation-page/pricing2.jpg").default
-                  }
-                ></img>
-              </Col>
-            </Row>
-            <Row>
-              <Col md="3">
-                <img
-                  alt="..."
-                  src={
-                    require("assets/img/presentation-page/pricing3.jpg").default
-                  }
-                ></img>
-              </Col>
-              <Col md="3">
-                <img
-                  alt="..."
-                  src={
-                    require("assets/img/presentation-page/pricing4.jpg").default
-                  }
-                ></img>
-              </Col>
-              <Col md="3">
-                <img
-                  alt="..."
-                  src={
-                    require("assets/img/presentation-page/pricing5.jpg").default
-                  }
-                ></img>
-              </Col>
-              <Col md="3">
-                <img
-                  alt="..."
-                  src={
-                    require("assets/img/presentation-page/testimonials1.jpg")
+                    require("assets/img/presentation-page/projects2.webp")
                       .default
                   }
                 ></img>
@@ -352,7 +281,7 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/testimonials2.jpg")
+                    require("assets/img/presentation-page/projects4.webp")
                       .default
                   }
                 ></img>
@@ -361,7 +290,7 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/testimonials3.jpg")
+                    require("assets/img/presentation-page/projects5.webp")
                       .default
                   }
                 ></img>
@@ -370,7 +299,7 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/contact1.jpg").default
+                    require("assets/img/presentation-page/pricing1.webp").default
                   }
                 ></img>
               </Col>
@@ -378,7 +307,78 @@ function Sections() {
                 <img
                   alt="..."
                   src={
-                    require("assets/img/presentation-page/contact2.jpg").default
+                    require("assets/img/presentation-page/pricing2.webp").default
+                  }
+                ></img>
+              </Col>
+            </Row>
+            <Row>
+              <Col md="3">
+                <img
+                  alt="..."
+                  src={
+                    require("assets/img/presentation-page/pricing3.webp").default
+                  }
+                ></img>
+              </Col>
+              <Col md="3">
+                <img
+                  alt="..."
+                  src={
+                    require("assets/img/presentation-page/pricing4.webp").default
+                  }
+                ></img>
+              </Col>
+              <Col md="3">
+                <img
+                  alt="..."
+                  src={
+                    require("assets/img/presentation-page/pricing5.webp").default
+                  }
+                ></img>
+              </Col>
+              <Col md="3">
+                <img
+                  alt="..."
+                  src={
+                    require("assets/img/presentation-page/testimonials1.webp")
+                      .default
+                  }
+                ></img>
+              </Col>
+            </Row>
+            <Row>
+              <Col md="3">
+                <img
+                  alt="..."
+                  src={
+                    require("assets/img/presentation-page/testimonials2.webp")
+                      .default
+                  }
+                ></img>
+              </Col>
+              <Col md="3">
+                <img
+                  alt="..."
+                  src={
+                    require("assets/img/presentation-page/testimonials3.webp")
+                      .default
+                  }
+                ></img>
+              </Col>
+              <Col md="3">
+                <img
+                  alt="..."
+                  src={
+                    require("assets/img/presentation-page/contact1.webp").default
+                  }
+                ></img>
+              </Col>
+              <Col md="3">
+                <img
+                  alt="..."
+                  src={
+                    require("assets/img/presentation-page/contact2.webp").default
                   }
                 ></img>
               </Col>

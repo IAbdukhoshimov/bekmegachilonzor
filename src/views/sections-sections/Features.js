@@ -66,7 +66,7 @@ function Features() {
           className="features-2 section-image"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/bg22.jpg").default + ")",
+              "url(" + require("assets/img/bg22.webp").default + ")",
           }}
         >
           <Container fluid>
@@ -189,7 +189,7 @@ function Features() {
                   data-background-color=""
                   style={{
                     backgroundImage:
-                      "url(" + require("assets/img/bg24.jpg").default + ")",
+                      "url(" + require("assets/img/bg24.webp").default + ")",
                   }}
                 >
                   <div className="info">
@@ -219,7 +219,7 @@ function Features() {
                   data-background-color=""
                   style={{
                     backgroundImage:
-                      "url(" + require("assets/img/bg23.jpg").default + ")",
+                      "url(" + require("assets/img/bg23.webp").default + ")",
                   }}
                 >
                   <div className="info">
@@ -245,7 +245,7 @@ function Features() {
                   data-background-color=""
                   style={{
                     backgroundImage:
-                      "url(" + require("assets/img/bg25.jpg").default + ")",
+                      "url(" + require("assets/img/bg25.webp").default + ")",
                   }}
                 >
                   <div className="info">
@@ -321,7 +321,7 @@ function Features() {
                 <div className="tablet-container">
                   <img
                     alt="..."
-                    src={require("assets/img/ipad2-inverted.png").default}
+                    src={require("assets/img/ipad2-inverted.webp").default}
                   ></img>
                 </div>
               </Col>
@@ -373,7 +373,7 @@ function Features() {
                 <div className="phone-container">
                   <img
                     alt="..."
-                    src={require("assets/img/iphone2.png").default}
+                    src={require("assets/img/iphone2.webp").default}
                   ></img>
                 </div>
               </Col>
@@ -412,7 +412,7 @@ function Features() {
           className="features-7 section-image"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/bg11.jpg").default + ")",
+              "url(" + require("assets/img/bg11.webp").default + ")",
           }}
         >
           <Col className="mr-auto ml-auto text-center" md="8">
@@ -472,7 +472,7 @@ function Features() {
                 <div className="image-container">
                   <img
                     alt="..."
-                    src={require("assets/img/ipad3.png").default}
+                    src={require("assets/img/ipad3.webp").default}
                   ></img>
                 </div>
               </Col>
@@ -483,7 +483,7 @@ function Features() {
           className="features-8 section-image"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/bg30.jpg").default + ")",
+              "url(" + require("assets/img/bg30.webp").default + ")",
           }}
         >
           <Col className="ml-auto mr-auto text-center" md="8">
@@ -503,7 +503,7 @@ function Features() {
                     <img
                       alt="..."
                       className="rounded"
-                      src={require("assets/img/bg28.jpg").default}
+                      src={require("assets/img/bg28.webp").default}
                     ></img>
                   </div>
                   <div className="info text-center">
@@ -524,7 +524,7 @@ function Features() {
                     <img
                       alt="..."
                       className="rounded"
-                      src={require("assets/img/bg26.jpg").default}
+                      src={require("assets/img/bg26.webp").default}
                     ></img>
                   </div>
                   <div className="info text-center">
@@ -544,7 +544,7 @@ function Features() {
                     <img
                       alt="..."
                       className="rounded"
-                      src={require("assets/img/bg27.jpg").default}
+                      src={require("assets/img/bg27.webp").default}
                     ></img>
                   </div>
                   <div className="info text-center">
@@ -565,7 +565,7 @@ function Features() {
                     <img
                       alt="..."
                       className="rounded"
-                      src={require("assets/img/bg29.jpg").default}
+                      src={require("assets/img/bg29.webp").default}
                     ></img>
                   </div>
                   <div className="info text-center">

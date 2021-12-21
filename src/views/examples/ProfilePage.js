@@ -156,7 +156,7 @@ function ProfilePage() {
                           style={{
                             backgroundImage:
                               "url(" +
-                              require("assets/img/bg23.jpg").default +
+                              require("assets/img/bg23.webp").default +
                               ")",
                           }}
                         >
@@ -210,7 +210,7 @@ function ProfilePage() {
                           style={{
                             backgroundImage:
                               "url(" +
-                              require("assets/img/project8.jpg").default +
+                              require("assets/img/project8.webp").default +
                               ")",
                           }}
                         >
@@ -266,7 +266,7 @@ function ProfilePage() {
                           style={{
                             backgroundImage:
                               "url(" +
-                              require("assets/img/bg25.jpg").default +
+                              require("assets/img/bg25.webp").default +
                               ")",
                           }}
                         >

@@ -91,7 +91,7 @@ function Feature() {
                           style={{
                             backgroundImage:
                               "url(" +
-                              require("assets/BG/rasm/2.jpg").default +
+                              require("assets/BG/rasm/2.webp").default +
                               ")",
                           }}
                         >
@@ -137,7 +137,7 @@ function Feature() {
                           style={{
                             backgroundImage:
                               "url(" +
-                              require("assets/BG/elements/1.png").default +
+                              require("assets/BG/elements/1.webp").default +
                               ")",
                           }}
                         >
@@ -187,7 +187,7 @@ function Feature() {
                           style={{
                             backgroundImage:
                               "url(" +
-                              require("assets/BG/elements/4.png").default +
+                              require("assets/BG/elements/4.webp").default +
                               ")",
                           }}
                         >

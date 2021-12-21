@@ -68,7 +68,7 @@ function FreeDemo() {
                     style={{
                       backgroundImage:
                         "url(" +
-                        require("assets/img/project1.jpg").default +
+                        require("assets/img/project1.webp").default +
                         ")",
                     }}
                   >
@@ -103,7 +103,7 @@ function FreeDemo() {
                     style={{
                       backgroundImage:
                         "url(" +
-                        require("assets/img/pricing1.jpg").default +
+                        require("assets/img/pricing1.webp").default +
                         ")",
                     }}
                   >

@@ -27,7 +27,7 @@ function Pricing() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/vodafone.jpg")
+                      require("assets/img/presentation-page/vodafone.webp")
                         .default
                     }
                   ></img>
@@ -36,7 +36,7 @@ function Pricing() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/microsoft.jpg")
+                      require("assets/img/presentation-page/microsoft.webp")
                         .default
                     }
                   ></img>
@@ -45,7 +45,7 @@ function Pricing() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/harvard.jpg")
+                      require("assets/img/presentation-page/harvard.webp")
                         .default
                     }
                   ></img>
@@ -54,7 +54,7 @@ function Pricing() {
                   <img
                     alt="..."
                     src={
-                      require("assets/img/presentation-page/stanford.jpg")
+                      require("assets/img/presentation-page/stanford.webp")
                         .default
                     }
                   ></img>

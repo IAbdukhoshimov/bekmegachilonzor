@@ -32,7 +32,7 @@ function Blogs() {
                           alt="..."
                           className="img img-raised rounded"
                           src={
-                            require("assets/img/examples/card-blog4.jpg")
+                            require("assets/img/examples/card-blog4.webp")
                               .default
                           }
                         ></img>
@@ -102,7 +102,7 @@ function Blogs() {
                           alt="..."
                           className="img img-raised rounded"
                           src={
-                            require("assets/img/examples/card-blog6.jpg")
+                            require("assets/img/examples/card-blog6.webp")
                               .default
                           }
                         ></img>
@@ -129,7 +129,7 @@ function Blogs() {
                             alt="..."
                             className="img img-raised rounded"
                             src={
-                              require("assets/img/examples/card-blog7.jpg")
+                              require("assets/img/examples/card-blog7.webp")
                                 .default
                             }
                           ></img>
@@ -164,7 +164,7 @@ function Blogs() {
                             alt="..."
                             className="img img-raised rounded"
                             src={
-                              require("assets/img/examples/card-blog9.jpg")
+                              require("assets/img/examples/card-blog9.webp")
                                 .default
                             }
                           ></img>
@@ -201,7 +201,7 @@ function Blogs() {
                             alt="..."
                             className="img img-raised rounded"
                             src={
-                              require("assets/img/examples/card-blog16.jpg")
+                              require("assets/img/examples/card-blog16.webp")
                                 .default
                             }
                           ></img>
@@ -234,7 +234,7 @@ function Blogs() {
                             alt="..."
                             className="img img-raised rounded"
                             src={
-                              require("assets/img/examples/card-blog15.jpg")
+                              require("assets/img/examples/card-blog15.webp")
                                 .default
                             }
                           ></img>
@@ -278,7 +278,7 @@ function Blogs() {
                           alt="..."
                           className="img img-raised rounded"
                           src={
-                            require("assets/img/examples/card-blog10.jpg")
+                            require("assets/img/examples/card-blog10.webp")
                               .default
                           }
                         ></img>
@@ -303,7 +303,7 @@ function Blogs() {
                         <img
                           alt="..."
                           className="avatar img-raised"
-                          src={require("assets/img/olivia.jpg").default}
+                          src={require("assets/img/olivia.webp").default}
                         ></img>
                         <span>Katie Roof</span>
                       </div>
@@ -319,7 +319,7 @@ function Blogs() {
                             alt="..."
                             className="img img-raised rounded"
                             src={
-                              require("assets/img/examples/card-blog11.jpg")
+                              require("assets/img/examples/card-blog11.webp")
                                 .default
                             }
                           ></img>
@@ -345,7 +345,7 @@ function Blogs() {
                         <img
                           alt="..."
                           className="avatar img-raised"
-                          src={require("assets/img/james.jpg").default}
+                          src={require("assets/img/james.webp").default}
                         ></img>
                         <span>John Mannes</span>
                       </div>
@@ -361,7 +361,7 @@ function Blogs() {
                             alt="..."
                             className="img img-raised rounded"
                             src={
-                              require("assets/img/examples/card-blog12.jpg")
+                              require("assets/img/examples/card-blog12.webp")
                                 .default
                             }
                           ></img>
@@ -387,7 +387,7 @@ function Blogs() {
                         <img
                           alt="..."
                           className="avatar img-raised"
-                          src={require("assets/img/michael.jpg").default}
+                          src={require("assets/img/michael.webp").default}
                         ></img>
                         <span>Devin Coldewey</span>
                       </div>
@@ -411,7 +411,7 @@ function Blogs() {
                         alt="..."
                         className="img img-raised rounded"
                         src={
-                          require("assets/img/examples/card-blog13.jpg").default
+                          require("assets/img/examples/card-blog13.webp").default
                         }
                       ></img>
                     </a>
@@ -444,7 +444,7 @@ function Blogs() {
                         alt="..."
                         className="img img-raised rounded"
                         src={
-                          require("assets/img/examples/card-blog14.jpg").default
+                          require("assets/img/examples/card-blog14.webp").default
                         }
                       ></img>
                     </a>
@@ -488,7 +488,7 @@ function Blogs() {
                           <img
                             alt="..."
                             className="img rounded"
-                            src={require("assets/img/card-blog2.jpg").default}
+                            src={require("assets/img/card-blog2.webp").default}
                           ></img>
                         </a>
                       </div>
@@ -506,7 +506,7 @@ function Blogs() {
                             <img
                               alt="..."
                               className="avatar img-raised"
-                              src={require("assets/img/julie.jpg").default}
+                              src={require("assets/img/julie.webp").default}
                             ></img>
                             <span>Mike John</span>
                           </div>
@@ -526,7 +526,7 @@ function Blogs() {
                             alt="..."
                             className="img rounded"
                             src={
-                              require("assets/img/examples/card-blog18.jpg")
+                              require("assets/img/examples/card-blog18.webp")
                                 .default
                             }
                           ></img>
@@ -546,7 +546,7 @@ function Blogs() {
                             <img
                               alt="..."
                               className="avatar img-raised"
-                              src={require("assets/img/julie.jpg").default}
+                              src={require("assets/img/julie.webp").default}
                             ></img>
                             <span>Mike John</span>
                           </div>
@@ -566,7 +566,7 @@ function Blogs() {
                             alt="..."
                             className="img rounded"
                             src={
-                              require("assets/img/examples/card-blog17.jpg")
+                              require("assets/img/examples/card-blog17.webp")
                                 .default
                             }
                           ></img>
@@ -587,7 +587,7 @@ function Blogs() {
                             <img
                               alt="..."
                               className="avatar img-raised"
-                              src={require("assets/img/olivia.jpg").default}
+                              src={require("assets/img/olivia.webp").default}
                             ></img>
                             <span>Johanna Zmud</span>
                           </div>

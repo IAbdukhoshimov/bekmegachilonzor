@@ -274,7 +274,7 @@ function PreFooter() {
             className="subscribe-line subscribe-line-image"
             style={{
               backgroundImage:
-                "url(" + require("assets/img/bg7.jpg").default + ")",
+                "url(" + require("assets/img/bg7.webp").default + ")",
             }}
           >
             <Container>

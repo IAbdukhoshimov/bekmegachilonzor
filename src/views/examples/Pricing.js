@@ -218,7 +218,7 @@ function Pricing() {
             className="contactus-1 section-image"
             style={{
               backgroundImage:
-                "url(" + require("assets/img/bg27.jpg").default + ")",
+                "url(" + require("assets/img/bg27.webp").default + ")",
             }}
           >
             <Container>

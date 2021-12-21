@@ -103,7 +103,7 @@ function Projects() {
                   className="card-background card-background-product card-no-shadow"
                   style={{
                     backgroundImage:
-                      "url(" + require("assets/img/project1.jpg").default + ")",
+                      "url(" + require("assets/img/project1.webp").default + ")",
                   }}
                 >
                   <CardBody>
@@ -130,7 +130,7 @@ function Projects() {
                   style={{
                     backgroundImage:
                       "url(" +
-                      require("assets/img/project18.jpg").default +
+                      require("assets/img/project18.webp").default +
                       ")",
                   }}
                 >
@@ -158,7 +158,7 @@ function Projects() {
                   style={{
                     backgroundImage:
                       "url(" +
-                      require("assets/img/project20.jpg").default +
+                      require("assets/img/project20.webp").default +
                       ")",
                   }}
                 >
@@ -187,7 +187,7 @@ function Projects() {
                   style={{
                     backgroundImage:
                       "url(" +
-                      require("assets/img/project19.jpg").default +
+                      require("assets/img/project19.webp").default +
                       ")",
                   }}
                 >
@@ -239,7 +239,7 @@ function Projects() {
                       <img
                         alt="..."
                         className="img-raised rounded"
-                        src="https://s3.amazonaws.com/creativetim_bucket/products/170/original/opt_nuk_react_thumbnail.jpg"
+                        src="https://s3.amazonaws.com/creativetim_bucket/products/170/original/opt_nuk_react_thumbnail.webp"
                       ></img>
                     </div>
                   </a>
@@ -270,7 +270,7 @@ function Projects() {
                       <img
                         alt="..."
                         className="img-raised rounded"
-                        src="https://s3.amazonaws.com/creativetim_bucket/products/155/original/opt_adp_react_thumbnail.jpg?1554905507"
+                        src="https://s3.amazonaws.com/creativetim_bucket/products/155/original/opt_adp_react_thumbnail.webp?1554905507"
                       ></img>
                     </div>
                   </a>
@@ -301,7 +301,7 @@ function Projects() {
                       <img
                         alt="..."
                         className="img-raised rounded"
-                        src="https://s3.amazonaws.com/creativetim_bucket/products/168/original/opt_pkp_react_thumbnail.jpg"
+                        src="https://s3.amazonaws.com/creativetim_bucket/products/168/original/opt_pkp_react_thumbnail.webp"
                       ></img>
                     </div>
                   </a>
@@ -341,7 +341,7 @@ function Projects() {
                     style={{
                       backgroundImage:
                         "url(" +
-                        require("assets/img/project4.jpg").default +
+                        require("assets/img/project4.webp").default +
                         ")",
                     }}
                   >
@@ -358,7 +358,7 @@ function Projects() {
                     style={{
                       backgroundImage:
                         "url(" +
-                        require("assets/img/project21.jpg").default +
+                        require("assets/img/project21.webp").default +
                         ")",
                     }}
                   ></div>
@@ -380,7 +380,7 @@ function Projects() {
                     style={{
                       backgroundImage:
                         "url(" +
-                        require("assets/img/project24.jpg").default +
+                        require("assets/img/project24.webp").default +
                         ")",
                     }}
                   >
@@ -397,7 +397,7 @@ function Projects() {
                     style={{
                       backgroundImage:
                         "url(" +
-                        require("assets/img/project23.jpg").default +
+                        require("assets/img/project23.webp").default +
                         ")",
                     }}
                   ></div>
@@ -428,7 +428,7 @@ function Projects() {
                   style={{
                     backgroundImage:
                       "url(" +
-                      require("assets/img/project14.jpg").default +
+                      require("assets/img/project14.webp").default +
                       ")",
                   }}
                 >
@@ -479,7 +479,7 @@ function Projects() {
                     style={{
                       backgroundImage:
                         "url(" +
-                        require("assets/img/project15.jpg").default +
+                        require("assets/img/project15.webp").default +
                         ")",
                     }}
                   ></Card>
@@ -494,7 +494,7 @@ function Projects() {
                     style={{
                       backgroundImage:
                         "url(" +
-                        require("assets/img/project17.jpg").default +
+                        require("assets/img/project17.webp").default +
                         ")",
                     }}
                   ></Card>
@@ -526,7 +526,7 @@ function Projects() {
                   style={{
                     backgroundImage:
                       "url(" +
-                      require("assets/img/project16.jpg").default +
+                      require("assets/img/project16.webp").default +
                       ")",
                   }}
                 >
@@ -571,7 +571,7 @@ function Projects() {
                   className="card-background card-background-product card-raised"
                   style={{
                     backgroundImage:
-                      "url(" + require("assets/img/project8.jpg").default + ")",
+                      "url(" + require("assets/img/project8.webp").default + ")",
                   }}
                 >
                   <CardBody>
@@ -673,7 +673,7 @@ function Projects() {
                   className="card-background card-background-product card-raised"
                   style={{
                     backgroundImage:
-                      "url(" + require("assets/img/project9.jpg").default + ")",
+                      "url(" + require("assets/img/project9.webp").default + ")",
                   }}
                 >
                   <CardBody>

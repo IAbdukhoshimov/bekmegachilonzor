@@ -54,7 +54,7 @@ function PresentationHeader() {
             <img
               alt="..."
               className="invision-logo"
-              src={require("assets/img/invision-white-slim.png").default}
+              src={require("assets/img/invision-white-slim.webp").default}
             ></img>
           </a>
           . Coded by{" "}
@@ -65,7 +65,7 @@ function PresentationHeader() {
             <img
               alt="..."
               className="creative-tim-logo"
-              src={require("assets/img/creative-tim-white-slim2.png").default}
+              src={require("assets/img/creative-tim-white-slim2.webp").default}
             ></img>
           </a>
           .

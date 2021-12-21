@@ -46,7 +46,7 @@ function Components() {
                 <div className="card-component">
                   <div className="front">
                     <ImageZoom
-                      src={require("assets/BG/C1.jpg").default}
+                      src={require("assets/BG/C1.webp").default}
                       alt="Zoom 1"
                       zoom={zoom.current}
                       background="#fff"
@@ -60,7 +60,7 @@ function Components() {
                 <div className="card-component">
                   <div className="front">
                     <ImageZoom
-                      src={require("assets/BG/C2.jpg").default}
+                      src={require("assets/BG/C2.webp").default}
                       alt="Zoom 1"
                       zoom={zoom.current}
                       background="#fff"
@@ -74,7 +74,7 @@ function Components() {
                 <div className="card-component">
                   <div className="front">
                     <ImageZoom
-                      src={require("assets/BG/C1.jpg").default}
+                      src={require("assets/BG/C1.webp").default}
                       alt="Zoom 1"
                       zoom={zoom.current}
                       background="#fff"
@@ -88,7 +88,7 @@ function Components() {
                 <div className="card-component">
                   <div className="front">
                     <ImageZoom
-                      src={require("assets/BG/C2.jpg").default}
+                      src={require("assets/BG/C2.webp").default}
                       alt="Zoom 1"
                       zoom={zoom.current}
                       background="#fff"

@@ -26,7 +26,7 @@ function ContactUsHeader() {
           className="page-header-image"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/bg45.jpg").default + ")",
+              "url(" + require("assets/img/bg45.webp").default + ")",
           }}
           ref={pageHeader}
         ></div>

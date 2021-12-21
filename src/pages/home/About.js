@@ -28,18 +28,18 @@ function BasicComponents() {
                 <img
                   alt="..."
                   className="components-macbook"
-                  src={require("assets/BG/rasm/2.png").default}
+                  src={require("assets/BG/rasm/2.webp").default}
                 ></img>
                 <img
                   alt="..."
                   className="table-img"
-                  src={require("assets/BG/elements/1.png").default}
+                  src={require("assets/BG/elements/1.webp").default}
                 ></img>
                 <img
                   alt="..."
                   className="share-btn-img"
                   style={{ boxShadow: "none" }}
-                  src={require("assets/BG/elements/2.png").default}
+                  src={require("assets/BG/elements/2.webp").default}
                 ></img>
                 <img
                   alt="..."
@@ -49,18 +49,18 @@ function BasicComponents() {
                 <img
                   alt="..."
                   className="coloured-card-img"
-                  src={require("assets/BG/elements/4.png").default}
+                  src={require("assets/BG/elements/4.webp").default}
                 ></img>
                 <img
                   alt="..."
                   className="social-img"
-                  src={require("assets/BG/elements/2-0.png").default}
+                  src={require("assets/BG/elements/2-0.webp").default}
                 ></img>
                 <img
                   alt="..."
                   style={{ boxShadow: "none" }}
                   className="linkedin-btn-img"
-                  src={require("assets/BG/elements/7.png").default}
+                  src={require("assets/BG/elements/7.webp").default}
                 ></img>
               </div>
             </Col>

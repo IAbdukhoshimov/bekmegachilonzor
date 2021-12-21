@@ -24,7 +24,7 @@ const items = [
             <img
               alt="..."
               className="img img-raised rounded"
-              src="https://s3.amazonaws.com/creativetim_bucket/photos/154001/thumb.JPG?1501184024"
+              src="https://s3.amazonaws.com/creativetim_bucket/photos/154001/thumb.webp?1501184024"
             ></img>
           </a>
         </div>

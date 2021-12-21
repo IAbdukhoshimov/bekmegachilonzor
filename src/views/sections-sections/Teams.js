@@ -38,7 +38,7 @@ function Teams() {
                       <img
                         alt="..."
                         className="img img-raised"
-                        src={require("assets/img/james.jpg").default}
+                        src={require("assets/img/james.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -77,7 +77,7 @@ function Teams() {
                       <img
                         alt="..."
                         className="img img-raised"
-                        src={require("assets/img/michael.jpg").default}
+                        src={require("assets/img/michael.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -124,7 +124,7 @@ function Teams() {
                       <img
                         alt="..."
                         className="img img-raised"
-                        src={require("assets/img/emily.jpg").default}
+                        src={require("assets/img/emily.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -171,7 +171,7 @@ function Teams() {
                       <img
                         alt="..."
                         className="img img-raised"
-                        src={require("assets/img/olivia.jpg").default}
+                        src={require("assets/img/olivia.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -227,7 +227,7 @@ function Teams() {
                         alt="..."
                         className="img img-raised rounded"
                         src={
-                          require("assets/img/examples/card-profile1.jpg")
+                          require("assets/img/examples/card-profile1.webp")
                             .default
                         }
                       ></img>
@@ -273,7 +273,7 @@ function Teams() {
                         alt="..."
                         className="img img-raised rounded"
                         src={
-                          require("assets/img/examples/card-profile2.jpg")
+                          require("assets/img/examples/card-profile2.webp")
                             .default
                         }
                       ></img>
@@ -311,7 +311,7 @@ function Teams() {
                         alt="..."
                         className="img img-raised rounded"
                         src={
-                          require("assets/img/examples/card-profile3.jpg")
+                          require("assets/img/examples/card-profile3.webp")
                             .default
                         }
                       ></img>
@@ -356,7 +356,7 @@ function Teams() {
           className="team-3 section-image"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/bg21.jpg").default + ")",
+              "url(" + require("assets/img/bg21.webp").default + ")",
           }}
         >
           <Container>
@@ -380,7 +380,7 @@ function Teams() {
                           <img
                             alt="..."
                             className="img"
-                            src={require("assets/img/olivia.jpg").default}
+                            src={require("assets/img/olivia.webp").default}
                           ></img>
                         </a>
                       </div>
@@ -407,7 +407,7 @@ function Teams() {
                           <img
                             alt="..."
                             className="img"
-                            src={require("assets/img/james.jpg").default}
+                            src={require("assets/img/james.webp").default}
                           ></img>
                         </a>
                       </div>
@@ -436,7 +436,7 @@ function Teams() {
                           <img
                             alt="..."
                             className="img"
-                            src={require("assets/img/michael.jpg").default}
+                            src={require("assets/img/michael.webp").default}
                           ></img>
                         </a>
                       </div>
@@ -465,7 +465,7 @@ function Teams() {
                           <img
                             alt="..."
                             className="img"
-                            src={require("assets/img/emily.jpg").default}
+                            src={require("assets/img/emily.webp").default}
                           ></img>
                         </a>
                       </div>
@@ -508,7 +508,7 @@ function Teams() {
                           <img
                             alt="..."
                             className="img img-raised rounded"
-                            src={require("assets/img/olivia.jpg").default}
+                            src={require("assets/img/olivia.webp").default}
                           ></img>
                         </a>
                       </div>
@@ -561,7 +561,7 @@ function Teams() {
                           <img
                             alt="..."
                             className="img img-raised rounded"
-                            src={require("assets/img/emily.jpg").default}
+                            src={require("assets/img/emily.webp").default}
                           ></img>
                         </a>
                       </div>
@@ -622,7 +622,7 @@ function Teams() {
                           <img
                             alt="..."
                             className="img img-raised rounded"
-                            src={require("assets/img/james.jpg").default}
+                            src={require("assets/img/james.webp").default}
                           ></img>
                         </a>
                       </div>
@@ -675,7 +675,7 @@ function Teams() {
                           <img
                             alt="..."
                             className="img img-raised rounded"
-                            src={require("assets/img/michael.jpg").default}
+                            src={require("assets/img/michael.webp").default}
                           ></img>
                         </a>
                       </div>
@@ -726,7 +726,7 @@ function Teams() {
           className="team-5 section-image"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/bg9.jpg").default + ")",
+              "url(" + require("assets/img/bg9.webp").default + ")",
           }}
         >
           <Container>
@@ -748,7 +748,7 @@ function Teams() {
                       <img
                         alt="..."
                         className="img img-raised"
-                        src={require("assets/img/olivia.jpg").default}
+                        src={require("assets/img/olivia.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -795,7 +795,7 @@ function Teams() {
                       <img
                         alt="..."
                         className="img img-raised"
-                        src={require("assets/img/james.jpg").default}
+                        src={require("assets/img/james.webp").default}
                       ></img>
                     </a>
                   </div>
@@ -834,7 +834,7 @@ function Teams() {
                       <img
                         alt="..."
                         className="img img-raised"
-                        src={require("assets/img/emily.jpg").default}
+                        src={require("assets/img/emily.webp").default}
                       ></img>
                     </a>
                   </div>

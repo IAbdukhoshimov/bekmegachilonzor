@@ -25,14 +25,14 @@ function Feature() {
                 data-background-color=""
                 style={{
                   backgroundImage:
-                    "url(" + require("assets/BG/rasm/cotton.jpg").default + ")",
+                    "url(" + require("assets/BG/rasm/cotton.webp").default + ")",
                 }}
               >
                 <div className="info">
                   <div className="icon icon-white">
                     <img
                       alt="..."
-                      src="https://img.icons8.com/ios-filled/64/ffffff/cotton.png"
+                      src="https://img.icons8.com/ios-filled/64/ffffff/cotton.webp"
                     />
                   </div>
                   <div className="description">
@@ -52,7 +52,7 @@ function Feature() {
                 style={{
                   backgroundImage:
                     "url(" +
-                    require("assets/BG/rasm/ginning.jpg").default +
+                    require("assets/BG/rasm/ginning.webp").default +
                     ")",
                 }}
               >
@@ -60,7 +60,7 @@ function Feature() {
                   <div className="icon icon-white">
                     <img
                       alt="..."
-                      src="https://img.icons8.com/ios-filled/64/ffffff/clew.png"
+                      src="https://img.icons8.com/ios-filled/64/ffffff/clew.webp"
                     />
                   </div>
                   <div className="description">
@@ -76,14 +76,14 @@ function Feature() {
                 data-background-color=""
                 style={{
                   backgroundImage:
-                    "url(" + require("assets/BG/rasm/yarn.jpg").default + ")",
+                    "url(" + require("assets/BG/rasm/yarn.webp").default + ")",
                 }}
               >
                 <div className="info">
                   <div className="icon icon-white">
                     <img
                       alt="..."
-                      src="https://img.icons8.com/ios-glyphs/64/ffffff/bobbin--v2.png"
+                      src="https://img.icons8.com/ios-glyphs/64/ffffff/bobbin--v2.webp"
                     />
                   </div>
                   <div className="description">
@@ -99,14 +99,14 @@ function Feature() {
                 data-background-color=""
                 style={{
                   backgroundImage:
-                    "url(" + require("assets/BG/rasm/harsh.jpg").default + ")",
+                    "url(" + require("assets/BG/rasm/harsh.webp").default + ")",
                 }}
               >
                 <div className="info">
                   <div className="icon icon-white">
                     <img
                       alt="..."
-                      src="https://img.icons8.com/metro/64/ffffff/polishing-cloth.png"
+                      src="https://img.icons8.com/metro/64/ffffff/polishing-cloth.webp"
                     />
                   </div>
                   <div className="description">

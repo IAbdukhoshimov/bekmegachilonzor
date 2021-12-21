@@ -151,7 +151,7 @@ function ContactUs() {
           className="contactus-1 section-image"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/contact1.jpg").default + ")",
+              "url(" + require("assets/img/contact1.webp").default + ")",
           }}
         >
           <Container>

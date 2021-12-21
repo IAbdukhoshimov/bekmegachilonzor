@@ -13,7 +13,7 @@ function PricingHeader() {
           className="page-header-image"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/bg37.jpg").default + ")",
+              "url(" + require("assets/img/bg37.webp").default + ")",
           }}
         ></div>
         <div className="content-center">

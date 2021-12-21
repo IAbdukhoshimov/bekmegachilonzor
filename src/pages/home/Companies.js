@@ -10,7 +10,7 @@ function Companies() {
                   <img
                     alt="..."
                     src={
-                      require("assets/BG/PartnersLogo/atlas.jpg")
+                      require("assets/BG/PartnersLogo/atlas.webp")
                         .default
                     }
                   ></img>
@@ -19,7 +19,7 @@ function Companies() {
                   <img
                     alt="..."
                     src={
-                      require("assets/BG/PartnersLogo/gerber.jpg")
+                      require("assets/BG/PartnersLogo/gerber.webp")
                         .default
                     }
                   ></img>
@@ -28,7 +28,7 @@ function Companies() {
                   <img
                     alt="..."
                     src={
-                      require("assets/BG/PartnersLogo/mr.jpg")
+                      require("assets/BG/PartnersLogo/mr.webp")
                         .default
                     }
                   ></img>
@@ -37,7 +37,7 @@ function Companies() {
                   <img
                     alt="..."
                     src={
-                      require("assets/BG/PartnersLogo/oerlikon.jpg")
+                      require("assets/BG/PartnersLogo/oerlikon.webp")
                         .default
                     }
                   ></img>
@@ -46,7 +46,7 @@ function Companies() {
                   <img
                     alt="..."
                     src={
-                      require("assets/BG/PartnersLogo/trutz.jpg")
+                      require("assets/BG/PartnersLogo/trutz.webp")
                         .default
                     }
                   ></img>
@@ -55,7 +55,7 @@ function Companies() {
                   <img
                     alt="..."
                     src={
-                      require("assets/BG/PartnersLogo/welker.jpg")
+                      require("assets/BG/PartnersLogo/welker.webp")
                         .default
                     }
                   ></img>

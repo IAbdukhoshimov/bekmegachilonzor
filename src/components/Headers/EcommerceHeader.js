@@ -12,7 +12,7 @@ import {
 // core components
 const items = [
   {
-    src: "url(" + require("assets/img/bg40.jpg").default + ")",
+    src: "url(" + require("assets/img/bg40.webp").default + ")",
     content: (
       <Row>
         <Col className="ml-auto mr-auto" md="8">
@@ -28,7 +28,7 @@ const items = [
     caption: "",
   },
   {
-    src: "url(" + require("assets/img/bg41.jpg").default + ")",
+    src: "url(" + require("assets/img/bg41.webp").default + ")",
     content: (
       <Row>
         <Col className="ml-auto mr-auto text-center" md="8">
@@ -44,7 +44,7 @@ const items = [
     caption: "",
   },
   {
-    src: "url(" + require("assets/img/bg29.jpg").default + ")",
+    src: "url(" + require("assets/img/bg29.webp").default + ")",
     content: (
       <Row>
         <Col className="ml-auto mr-auto" md="8">

@@ -27,7 +27,7 @@ function BlogPostsHeader() {
           className="page-header-image"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/bg44.jpg").default + ")",
+              "url(" + require("assets/img/bg44.webp").default + ")",
           }}
           ref={pageHeader}
         ></div>

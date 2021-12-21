@@ -376,7 +376,7 @@ function Ecommerce() {
                           <a href="#pablo" onClick={(e) => e.preventDefault()}>
                             <img
                               alt="..."
-                              src={require("assets/img/polo.jpg").default}
+                              src={require("assets/img/polo.webp").default}
                             ></img>
                           </a>
                         </div>
@@ -417,7 +417,7 @@ function Ecommerce() {
                           <a href="#pablo" onClick={(e) => e.preventDefault()}>
                             <img
                               alt="..."
-                              src={require("assets/img/tom-ford.jpg").default}
+                              src={require("assets/img/tom-ford.webp").default}
                             ></img>
                           </a>
                         </div>
@@ -457,7 +457,7 @@ function Ecommerce() {
                           <a href="#pablo" onClick={(e) => e.preventDefault()}>
                             <img
                               alt="..."
-                              src={require("assets/img/wooyoungmi.jpg").default}
+                              src={require("assets/img/wooyoungmi.webp").default}
                             ></img>
                           </a>
                         </div>
@@ -497,7 +497,7 @@ function Ecommerce() {
                           <a href="#pablo" onClick={(e) => e.preventDefault()}>
                             <img
                               alt="..."
-                              src={require("assets/img/sweeney.jpg").default}
+                              src={require("assets/img/sweeney.webp").default}
                             ></img>
                           </a>
                         </div>
@@ -537,7 +537,7 @@ function Ecommerce() {
                           <a href="#pablo" onClick={(e) => e.preventDefault()}>
                             <img
                               alt="..."
-                              src={require("assets/img/kingsman.jpg").default}
+                              src={require("assets/img/kingsman.webp").default}
                             ></img>
                           </a>
                         </div>
@@ -577,7 +577,7 @@ function Ecommerce() {
                           <a href="#pablo" onClick={(e) => e.preventDefault()}>
                             <img
                               alt="..."
-                              src={require("assets/img/boglioli.jpg").default}
+                              src={require("assets/img/boglioli.webp").default}
                             ></img>
                           </a>
                         </div>
@@ -640,7 +640,7 @@ function Ecommerce() {
                     className="card-fashion card-background"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/bg35.jpg").default + ")",
+                        "url(" + require("assets/img/bg35.webp").default + ")",
                     }}
                   >
                     <CardBody>
@@ -706,7 +706,7 @@ function Ecommerce() {
                       className="card-fashion card-background"
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/bg40.jpg").default + ")",
+                          "url(" + require("assets/img/bg40.webp").default + ")",
                       }}
                     ></Card>
                   </div>
@@ -724,7 +724,7 @@ function Ecommerce() {
                       <img
                         alt="..."
                         className="img rounded"
-                        src={require("assets/img/saint-laurent1.jpg").default}
+                        src={require("assets/img/saint-laurent1.webp").default}
                       ></img>
                     </div>
                     <CardBody>
@@ -769,7 +769,7 @@ function Ecommerce() {
                       <img
                         alt="..."
                         className="img rounded"
-                        src={require("assets/img/saint-laurent.jpg").default}
+                        src={require("assets/img/saint-laurent.webp").default}
                       ></img>
                     </div>
                     <CardBody>
@@ -810,7 +810,7 @@ function Ecommerce() {
                       <img
                         alt="..."
                         className="img rounded"
-                        src={require("assets/img/gucci.jpg").default}
+                        src={require("assets/img/gucci.webp").default}
                       ></img>
                     </div>
                     <CardBody>
@@ -852,7 +852,7 @@ function Ecommerce() {
             className="subscribe-line subscribe-line-image"
             style={{
               backgroundImage:
-                "url(" + require("assets/img/bg43.jpg").default + ")",
+                "url(" + require("assets/img/bg43.webp").default + ")",
             }}
           >
             <Container>

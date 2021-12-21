@@ -1,36 +1,36 @@
 import React from 'react'
 import CardQolip from '../Qolip'
-import Image from 'assets/BG/products/velur/1.jpg'
+import Image from 'assets/BG/products/velur/1.webp'
 import { useTranslation } from 'react-i18next';
 
 const carouselItems = [
     {
-      src: require("assets/BG/products/velur/1.jpg").default,
+      src: require("assets/BG/products/velur/1.webp").default,
       altText: "",
       caption: "",
     },
     {
-      src: require("assets/BG/products/velur/2.jpg").default,
+      src: require("assets/BG/products/velur/2.webp").default,
       altText: "",
       caption: "",
     },
     {
-      src: require("assets/BG/products/velur/3.jpg").default,
+      src: require("assets/BG/products/velur/3.webp").default,
       altText: "",
       caption: "",
     },
     {
-      src: require("assets/BG/products/velur/4.jpg").default,
+      src: require("assets/BG/products/velur/4.webp").default,
       altText: "",
       caption: "",
     },
     {
-      src: require("assets/BG/products/velur/5.jpg").default,
+      src: require("assets/BG/products/velur/5.webp").default,
       altText: "",
       caption: "",
     },
     {
-      src: require("assets/BG/products/velur/6.jpg").default,
+      src: require("assets/BG/products/velur/6.webp").default,
       altText: "",
       caption: "",
     }
