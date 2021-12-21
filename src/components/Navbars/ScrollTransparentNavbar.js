@@ -34,6 +34,7 @@ function ScrollTransparentNavbar() {
       ? ""
       : " navbar-transparent"
   );
+  // eslint-disable-next-line
   const [buyButtonColor, setBuyButtonColor] = React.useState(
     (document.documentElement.scrollTop > 499 || document.body.scrollTop) > 499
       ? "#D2A264"
