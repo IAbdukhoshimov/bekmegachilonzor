@@ -1,0 +1,155 @@
+{
+    "Header": {
+        "1":"Home",
+        "2":"About Us",
+        "3":"Gallery",
+        "4":"Company Profile",
+        "5":"Products",
+        "6":"News",
+        "7":"Contact"
+    },
+    "Home":{
+        "1":"LIMITED LIABILITY COMPANY",
+        "2":"Strict quality control of the produced yarn is carried out throughout the entire production cycle. Products at every stage of production, from raw materials to finished yarn, are tested on devices of the firm Techtechno Germany in the laboratory of the enterprise.",
+        "3":"Our statistics",
+        "4":"hectares",
+        "5":"Cultivation of raw cotton - 35,000 hectares",
+        "6":"tons",
+        "7":"Ginning of cotton - 20,000 tons per year",
+        "8":"Yarn production - 35,000 tons per year",
+        "9":"Harsh knitted fabric - 10 800 tons per year",
+        "Home":{
+            "1":"Excellence & Quality",
+            "2":"Sustained Quality",
+            "3":"Quality is critical to satisfying our customers and retaining their loyalty",
+            "4":"Awesome Design",
+            "5":"We can make new designs and sew for you",
+            "6":"Quicker Lead Time",
+            "7":"We can complete a product until deadline to the shipment of the goods to customer .",
+            "8":"Becoming one of the biggest textile manufacturers in terms of sustained quality, innovative product range, quicker lead time & efficient services keeping the customers as our partners"
+        }
+    },
+    "Footer":{
+        "1":"Follow Us",
+        "2":"COPYRIGHT",
+        "3":"Designed & Coded by"
+    },
+    "Service": {
+        "1": "WHAT SERVICES DO WE OFFER",
+        "2": "Yarn production",
+        "3": "Knitting is the process of making cloth or products (usually elements of clothing or interior items) from one or more threads by bending them into...",
+        "Yarn":{
+            "1":"There are many types of yarn, both natural and synthetic. But the most demanded is the spinning yarn made from natural raw materials. It is more often used for the production of various fabrics, elements of a person's wardrobe, and even for the manufacture of household products. Natural raw materials are mainly used in the production of knitting yarns.",
+            "2":"Of course, in this market the leading place remains with large factories focused on the production of wool products. But there remains a large market niche for small businesses, whose products are more diverse both in terms of the properties of the goods produced and the raw materials used. Every day in our country, the number of people who are fond of knitting is increasing. At the same time, the demand for yarn, both for machine knitting and for hand knitting, is also growing rapidly.",
+            "3":"And now many knitting lovers are well versed in the difference between high-quality material and products of mediocre value. Only those enterprises of the weaving industry are leading in sales, where strict control of product quality has been established, where the latest fashion trends in clothing are taken into account."
+        },
+        "4": "Knitting fabric",
+        "5": "Knitting is the process of making cloth or products (usually elements of clothing or interior items) from one or more threads by bending them into...",
+        "Knitting":{
+            "1":"Knitting is the process of making cloth or products (usually elements of clothing or interior items) from one or more threads by bending them into loops and connecting the loops to each other using simple tools - manually (crochet hook, knitting needles, needle, fork, or simply on fingers) or on a knitting machine (mechanical knitting).",
+            "2":"Knitting, as a technique, belongs to the types of weaving, is used for the manufacture of items of clothing (socks, gloves, hats) and linen (napkins, tablecloths, curtains), interior decoration.",
+            "3":"The main types of loops are front, purl, yarn, edging. With their help, the whole variety of knitted patterns is created."
+        },
+        "6": "Sewing finished products",
+        "7": "Today the garment industry has flooded the market with a variety of modern clothes, which are presented in various styles and shades. The trade ...",
+        "Sewing":{
+            "1":"Today the garment industry has flooded the market with a variety of modern clothes, which are presented in various styles and shades. The trade network presents models for different age categories. It is a mistake to think that tailoring is a thing of the distant past. There are a large number of sewing ateliers where professionals will make an individual order. You can also learn how to sew products at home. But it will take patience and quality equipment.",
+            "2":"To make clothes with your own hands, you need basic, lining, finishing materials. They must have good sewing, operational and hygienic properties. The material can have a different composition. The fabric is composed of cotton, linen, silk or woolen fibers.",
+            "3":"Material containing nylon or polyester fibers has increased wear resistance and less wrinkling. Therefore, fabrics can be divided into three main categories: natural, artificial and synthetic. The textile industry introduced to the market a wide range of different materials that are used for sewing products - cotton, polyester, jacquard, silk, calico, chiffon, corduroy."
+        },
+        "8": "Rotary printing",
+        "9": "Rotary printing is a modern way of printing beautiful and clear images on materials. It belongs to one of the stencil methods and is used im amny ...",
+        "Rotary":{
+            "1":"Rotary printing is a modern way of printing beautiful and clear images on materials. It belongs to one of the stencil methods and is used in many large textile enterprises and factories.",
+            "2":"In order to print the highest quality image, a special shaft is located at the heart of the design of the rotary machine. It has the shape of a cylinder and serves as a printing function. The squeegee mechanism is located inside the template. It is set at a specific angle and consists of rubber or steel blades. The paint itself is fed into the middle of the template using a pump. Rotary printing technology also allows you to control the pressure level at which the ink is delivered. Rotary printing is useful if you need to print an image in a wide format and in large volumes. This can be done only with specialized equipment.",
+            "3":"Rotary printing machines are divided into sheet-fed and web-fed. In the first version, a material that is already ready in size is used to apply the image, but in the second case, cutting will take place directly at the final stage of production."
+        },
+        "10": "Screen printing and embroidery",
+        "11": "Bright stylish clothes are needed not only in summer, but also in winter. This applies to both personal wardrobe and workwear, uniforms. T-shirts ...",
+        "Screen":{
+            "1":"Bright stylish clothes are needed not only in summer, but also in winter. This applies to both personal wardrobe and workwear, uniforms. T-shirts are simple. They perfectly fit all types of application, including silk-screen printing and machine embroidery. If we are talking about outerwear, then a more subtle approach is needed here, since it is sewn from more complex materials. Modern technologies make it possible to make a beautiful, bright application on almost any fabric.",
+            "2":"The most common type of printing on clothing is silk screen printing. This method has been known for many centuries. And today, silk-screen printing is one of the most reliable application methods. The process consists in using special stencils through which a pattern is applied to the material. The preliminary color image is divided into colors. For example, if your logo has three colors, then three stencils will be used to print it. Each color is pressed through a stencil, after application it is thoroughly dried. This technology allows the dye to penetrate deeply into the fibers of the fabric and stay there for a long time."
+        },
+        "12": "Dyeing of yarn and linen",
+        "13": "Yarns and yarns rarely hit store shelves in their original, natural colors. Then hardly anyone would pay attention to them. That is why thread ...",
+        "Dyeing":{
+            "1":"Yarns and yarns rarely hit store shelves in their original, natural colors. Then hardly anyone would pay attention to them. That is why thread dyeing is one of the most important stages of their production.",
+            "2":"The color is applied to different types of fibers. It can be shaped, insulating threads made from natural and synthetic raw materials, sewing threads of any number, embroidery threads and numerous types of yarn.",
+            "3":"Before dyeing, all fibers, without exception, undergo a de-gluing process. They are dipped in alkaline soap solutions, with the help of which sericin and other unnecessary impurities are removed from the surface of the threads. In the first case, special units are used, which are called open-type coiler-roller units. There are rollers inside the units. The skeins are fixed on them. The rollers begin to rotate up and down and pass through the reservoirs where the liquid colorant is contained."
+        },
+        "14":"More",
+        "15":"Description",
+        "16":"Close"
+    },
+    "Contact": {
+        "1":"Get in touch with us",
+        "2":"CONTACT",
+        "3":"Give us a call",
+        "4":"Mon - Fri",
+        "5":"Call Us",
+        "6":"SOCIAL MEDIA",
+        "7":"Find Us on social networks",
+        "8":"Follow us",
+        "9":"ADDRESS",
+        "10":"Find us at the office",
+        "11":"1, Chinabad street, Altinkul district, Andijan, Uzbekistan",
+        "12":"Find us",
+        "13":"Sunday",
+        "14":"Dinner",
+        "15":"Day off"
+    },
+    "ProductName":{
+        "1":"Fleece",
+        "2":"Fullaykra",
+        "3":"Interlock",
+        "4":"Jacquard fabric",
+        "5":"Kashkorse",
+        "6":"Crepe",
+        "7":"LACOSTE",
+        "8":"Mahra",
+        "9":"Printed fabric",
+        "10":"Knitted fabric petek",
+        "11":"double-sided fabric",
+        "12":"Ribana",
+        "13":"Selanik",
+        "14":"SUPREME",
+        "15":"Capiton fabric",
+        "16":"Velor",
+        "17":"Synthetic fiber",
+        "18":"Interlock jacquard",
+        "19":"Openend",
+        "20":"Penye Intyerlock"
+    },
+    "PrdouctP": {
+        "1": "Fleece is a synthetic knitted material made of polyester (polyester fiber), additionally treated to reduce thermal conductivity. Such a composition provides warmth and resistance to moisture, while the soft surface provides the desired comfort. The light weight of the fabric is also an important factor. Artificial origin does not prevent the material from being breathable and pleasant to the touch. That makes it possible to make even children's things out of it. Unlike other fabrics, fleece has a high level of heat retention and hydrophobicity. Fleece clothing is able to keep warm due to its structure, which retains a large amount of air. And hydrophobicity (the feature of synthetic fibers does not absorb water) is the main and main feature of fleece. These features distinguish it favorably from similar materials.",
+        "2": "Fullaykra - As the name suggests, its peculiarity is the incorporation into the composition of lycra fibers, which provide elasticity and strength. Fullaykra stretches perfectly in different directions, but after that it easily regains its shape. The scope of application of fullaycra is identical to other cotton materials. It is used for sewing household and everyday items, sports and children's clothing, sleepwear, lingerie and much more.",
+        "3": "Interlock - amazing softness and strength in one bottle Knitted fabrics are used in all areas of light industry. They have many characteristics that make them versatile. These materials include interlock.Interlock - what kind of fabric? It is a cotton knitted fabric. It has a dense structure and does not stretch well. This is achieved through a special double-sided weave. It is also called two-faced. The canvas turns out to be equally smooth on both sides. The fabric does not have an outside and a seamy side. However, with special processing, vertical stripes can be achieved.",
+        "4": "Jacquard fabric is a large-patterned fabric of complex or simple weave, the rapport of which contains more than 24 differently intertwining threads on the basis.",
+        "5": "Kashkorse is a knitted fabric with a large elastic band, which determines its high elasticity. It is made on the basis of 100% cotton raw materials, depending on the type of fabric itself, the composition can be replenished with various additives. It is a warm elastic fabric that allows the body to breathe and removes excess moisture that is released by the body.",
+        "6": "Crepe is a popular type of fabric that is produced with maximum twist. Sometimes in the sewing industry, crepe weaving can be carried out. In the process of making these textiles, multiple twisting of the threads left and right in a certain sequence is usually used, which gives the fabrics special strength and density.",
+        "7": "Often the names of fabrics are closely intertwined with history. So it happened with the lacoste. Today it is associated with the famous crocodile and sportswear, pleasant to the touch. Meanwhile, such jersey will be correctly called a piqué fabric (“pique” from the French piquer). So why do we call it that way and what is the peculiarity of this fabric? In 1926, French tennis player Rene Lacoste won the Grand Slam tournament. In this he was helped by a new sports outfit, which he invented himself. When the rest of the tennis players were steaming in long-sleeved shirts, he came out in a sleeveless jacket of his own tailoring. The idea was instantly appreciated by athletes and just lovers of outdoor activities. And Rene opened his own company for the production of T-shirts, polo shirts and other sportswear. His nickname was Alligator, which is why we see the famous crocodile LACOSTE on the products of this company.",
+        "8": "Mahra is a natural fabric, the surface of which consists of piles (loops of warp threads). The pile can be either single (one-sided) or double (double-sided). In addition to one-sided and two-sided, there are also fabrics with a relief pattern in the structure of terry and fabrics with sheared pile (sheared terry).",
+        "9": "Printed fabric has a printed pattern on the surface. Originally, printed fabric was produced by hand. Subsequently, printed fabrics began to be called all fabrics on which a pattern is applied by fabric printing machines. In the old days, printed fabrics were brought from Italy and Germany. Drawings were applied with oil paint, silver or gold powder, and sometimes even crushed glass. In the manufacture of so-called heels (that is, printed fabrics), stamps made of wood were used - often they were rather long boards. It is clear that such fabrics as fire were afraid of washing - they could shed with the ingress of water, and the sun - under the influence of hot rays, they fade. Today, printed fabrics are produced exclusively by industrial means. The basis can be any - cotton fabrics, linen, thick curtain fabrics and even lightweight tulle materials. When drawing a pattern in this way, the structure of the fabric is not destroyed and its basic qualities, such as hygroscopicity, air permeability, strength, and so on, are not reduced.",
+        "10": "Knitted fabric petek is one of the widely used knitted fabrics for the production of various women's clothing. Petek fabric is a dense and elastic knitted synthetic fabric.",
+        "11": "This double-sided fabric is made with traditional plain weave, but with different thread sizes. The base is made of thin, smooth fibers, and the weft threads are much thicker (one and a half, two times) and coarser, due to which the canvas is obtained with a slight scar relief. The canvas, which conquered Europe, and after it the whole world, is today the most popular material for bedding, although it is also used for many other things.",
+        "12": "Ribana is a natural material for family and home. If we call the products obtained in the process of weaving by the fabric, then the ribana can only be conditionally ranked in this category. It is more correct to call it a knitted fabric, because it is obtained in a different way. Special knitting machines alternate knit and purl loops, resulting in a fine elastic band.",
+        "13": "Selanik is a dense knitted fabric made of natural cotton, the front side of which is a large eraser, the back side is with an undercut. Selanik clothes are very soft and pleasant to the touch. It is used for the manufacture of such children's clothing as: sweaters, children's trousers. Soft to the touch, Selanic products are comfortable to wear and easy to clean. Selanik is a knitted fabric made of cotton and synthetic fibers. Selanic is also used to make sportswear. The composition of the canvas is 100% cotton, cotton with polyester, acrylic.",
+        "14": "SUPREME - thin, pleasant to the touch, cotton jersey (100% cotton) of a very high quality with a drawstring weave. Suprem does not float, allows air to pass through, stretches well and wears well, therefore it is used mainly for sewing collections for the smallest children, as well as T-shirts and for older children. The suprem can be plain colored and with a pattern on a white background. All useful qualities make the suprem the most preferred for wearing in the summer.",
+        "15": "Capiton fabric is a dense and soft-touch knitted fabric made of natural cotton. Kapiton is a voluminous and warm jersey that warms the body well. In terms of its heat-shielding properties, the capiton fabric is warmer than the footer fabric.",
+        "16": "Velor is a pure-woolen, brushed fabric made of woolen yarn, with a pile somewhat longer than that of velvet. According to the production method, this velor is called “cut”. Velor is a wonderful material for a wide variety of needs, from upholstering car seats and upholstery of sofas to creating fashionable clothes of unusual styles from it.",
+        "17": "Synthetic fiber obtained by processing natural cellulose. It is produced in the form of textile and cord threads and staple fibers. Viscose fiber is one of the first man-made fibers to find practical application: the process of producing viscose fiber was developed at the end of the 19th century and is still used with minimal modifications.",
+        "18":"Interlock jacquard knits are produced on circular knitting machines. It is a type of fabric with a wide range of patterns. Since there is air between the front and back surface, it has better thermal insulation properties compared to other fabric types. Basically, it is not much different from the rib jacquard system. While the pattern is formed on the front surface of the fabric, the colored threads used on the back surface are mixed. It has a wide range of uses in summer underwear, winter underwear, sportswear and medical tops."
+    },
+    "Content":{
+        "1":"A dynamically developing, modern textile enterprise - was created in 2021 as a result of an optimal combination of such investment components as:",
+        "2":"High Quality",
+        "3":"Availability of high-quality main raw materials - high grades of cotton fiber grown in the most favorable regions of the Republic of Uzbekistan, which is a fundamental aspect in the development of integrated production;",
+        "4":"Energy Resources",
+        "5":"Availability and sufficiency of energy resources;",
+        "6":"Qualified Specialists",
+        "7":"Availability of qualified specialists in the textile industry;",
+        "8":"Investors",
+        "9":"Accumulated production capital of the investor;",
+        "10":"In a short production period, our spinning mill has established itself in the domestic and international market as a manufacturer of quality coarse yarns. Applying modern technologies in production, setting strict requirements for products and paying special attention to quality control at every stage of production, Bek Mega Chilonzor LLC constantly develops innovative ideas for its customers in order to meet the consumer demand of the modern world."
+    }
+  }

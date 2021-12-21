@@ -1,0 +1,155 @@
+{
+    "Header": {
+        "1": "Casa",
+        "2": "Chi siamo",
+        "3": "Galleria",
+         "4": "Profilo aziendale",
+         "5": "Prodotti",
+         "6": "Notizie",
+         "7": "Contatto"
+    },
+    "Footer":{
+        "1": "Seguici",
+         "2": "COPYRIGHT",
+         "3": "Progettato e codificato da"
+    },
+    "Home":{
+        "1": "SOCIETA' A RESPONSABILITA' LIMITATA",
+         "2": "Il rigoroso controllo della qualità del filato prodotto viene effettuato durante l'intero ciclo produttivo. I prodotti in ogni fase della produzione, dalle materie prime al filato finito, vengono testati su dispositivi dell'azienda Techtechno Germany nel laboratorio dell'azienda .",
+         "3": "Le nostre statistiche",
+         "4": "ettari",
+         "5": "Coltivazione cotone grezzo - 35.000 ettari",
+         "6": "tonnellate",
+         "7": "Sgranatura del cotone - 20.000 tonnellate all'anno",
+         "8": "Produzione di filato - 35.000 tonnellate all'anno",
+         "9": "Tessuto a maglia duro - 10 800 tonnellate all'anno",
+         "Home":{
+             "1": "Eccellenza e qualità",
+             "2": "Qualità sostenuta",
+             "3": "La qualità è fondamentale per soddisfare i nostri clienti e mantenere la loro fedeltà",
+             "4": "Design fantastico",
+             "5": "Possiamo creare nuovi disegni e cucire per te",
+             "6": "Tempo di consegna più rapido",
+             "7": "Possiamo completare un prodotto per la spedizione della merce al cliente fino alla scadenza.",
+             "8": "Diventare uno dei più grandi produttori tessili in termini di qualità costante, gamma di prodotti innovativi, tempi di consegna più rapidi e servizi efficienti mantenendo i clienti come nostri partner"
+        }
+    },
+    "Service": {
+        "1": "QUALI SERVIZI OFFRIAMO",
+        "2": "Produzione di filati",
+        "3": "Esistono molti tipi di filati, sia naturali che sintetici. Ma il più richiesto è il filato di filatura realizzato con materie prime naturali. È più ...",
+        "Yarn":{
+            "1":"Esistono molti tipi di filati, sia naturali che sintetici. Ma il più richiesto è il filato di filatura realizzato con materie prime naturali. È più spesso utilizzato per la produzione di vari tessuti, elementi del guardaroba di una persona e persino per la fabbricazione di prodotti per la casa. Le materie prime naturali sono utilizzate principalmente nella produzione di filati per maglieria.",
+            "2":"Certo, in questo mercato il posto di primo piano rimane con le grandi fabbriche focalizzate sulla produzione di prodotti lanieri. Ma rimane una grande nicchia di mercato per le piccole imprese, i cui prodotti sono più diversificati sia per le proprietà dei beni prodotti che per le materie prime utilizzate. Ogni giorno nel nostro paese aumenta il numero di persone che amano lavorare a maglia. Allo stesso tempo, cresce rapidamente anche la domanda di filati, sia per maglieria a macchina che per maglieria a mano.",
+            "3":"E ora molti amanti del lavoro a maglia conoscono bene la differenza tra materiale di alta qualità e prodotti di mediocre dignità. Solo quelle imprese del settore della tessitura sono leader nelle vendite, dove è stato stabilito un rigoroso controllo della qualità del prodotto, dove vengono prese in considerazione le ultime tendenze della moda nell'abbigliamento."
+        },
+        "4": "Tessuto a maglia",
+        "5": "Il lavoro a maglia è il processo per realizzare tessuti o prodotti (di solito elementi di abbigliamento o oggetti interni) da uno o più fili piegandoli...",
+        "Knitting":{
+            "1":"Il lavoro a maglia è il processo per realizzare tessuti o prodotti (di solito elementi di abbigliamento o oggetti interni) da uno o più fili piegandoli in anelli e collegandoli tra loro utilizzando semplici strumenti - manualmente (uncinetto, ferri da maglia, ago, forchetta , o semplicemente sulle dita) o su una macchina per maglieria (maglia meccanica).",
+            "2":"La lavorazione a maglia, come tecnica, appartiene ai tipi di tessitura, viene utilizzata per la fabbricazione di capi di abbigliamento (calze, guanti, cappelli) e biancheria (tovaglioli, tovaglie, tende), decorazione d'interni.",
+            "3":"I principali tipi di anelli sono davanti, rovescio, filato, bordo. Con il loro aiuto, viene creata l'intera varietà di modelli a maglia."
+        },
+        "6": "Cucire prodotti finiti",
+        "7": "Oggi l'industria dell'abbigliamento ha invaso il mercato con una varietà di abiti moderni, presentati in vari stili e sfumature. La rete commerciale ...",
+        "Sewing":{
+            "1":"Oggi l'industria dell'abbigliamento ha invaso il mercato con una varietà di abiti moderni, presentati in vari stili e sfumature. La rete commerciale presenta modelli per diverse categorie di età. È un errore pensare che la sartoria sia una cosa del lontano passato. Ci sono un gran numero di atelier di cucito in cui i professionisti effettueranno un ordine individuale. Puoi anche imparare a cucire i prodotti a casa. Ma ci vorrà pazienza e attrezzature di qualità.",
+            "2":"Per realizzare vestiti con le tue mani, hai bisogno di materiali di base, fodera e finitura. Devono avere buone proprietà di cucitura, operative e igieniche. Il materiale può avere una composizione diversa. Il tessuto è composto da fibre di cotone, lino, seta o lana.",
+            "3":"Il materiale contenente fibre di nylon o poliestere ha una maggiore resistenza all'usura e meno pieghe. Pertanto, i tessuti possono essere suddivisi in tre categorie principali: naturali, artificiali e sintetici. L'industria tessile ha introdotto sul mercato una vasta gamma di materiali diversi che vengono utilizzati per i prodotti per cucire: cotone, poliestere, jacquard, seta, calicò, chiffon, velluto a coste."
+        },
+        "8": "Stampa rotativa",
+        "9": "La stampa rotativa è un modo moderno di stampare immagini belle e chiare sui materiali. Appartiene a uno dei metodi di stencil ed è utilizzato ...",
+        "Rotary":{
+            "1":"La stampa rotativa è un modo moderno di stampare immagini belle e chiare sui materiali. Appartiene a uno dei metodi di stencil ed è utilizzato in molte grandi imprese e fabbriche tessili.",
+            "2":"Al fine di stampare l'immagine della massima qualità, un albero speciale si trova nel cuore del design della macchina rotativa. Ha la forma di un cilindro e funge da funzione di stampa. Il meccanismo del tergipavimento si trova all'interno della dima. È impostato su un angolo specifico ed è costituito da lame in gomma o acciaio. La vernice stessa viene alimentata al centro del modello usando una pompa. La tecnologia di stampa rotativa consente inoltre di controllare il livello di pressione a cui viene erogato l'inchiostro. La stampa rotativa è utile se è necessario stampare un'immagine in un formato ampio e in grandi volumi. Questo può essere fatto solo con attrezzature specializzate.",
+            "3":"Le macchine da stampa rotative si dividono in alimentate a foglio e alimentate a rullo. Nella prima versione, viene utilizzato un materiale già pronto per applicare l'immagine, ma nel secondo caso il taglio avverrà direttamente nella fase finale della produzione."
+        },
+        "10": "Serigrafia e ricamo",
+        "11": "Abiti luminosi ed eleganti sono necessari non solo in estate, ma anche in inverno. Questo vale sia per il guardaroba personale che per l'abbigliamento ...",
+        "Screen":{
+            "1":"Abiti luminosi ed eleganti sono necessari non solo in estate, ma anche in inverno. Questo vale sia per il guardaroba personale che per l'abbigliamento da lavoro, le uniformi. Le magliette sono semplici. Si adattano perfettamente a tutti i tipi di applicazione, compresa la stampa serigrafica e il ricamo a macchina. Se stiamo parlando di capispalla, qui è necessario un approccio più sottile, poiché è cucito con materiali più complessi. Le moderne tecnologie consentono di realizzare un'applicazione bella e luminosa su quasi tutti i tessuti.",
+            "2":"Il tipo più comune di stampa su abbigliamento è la serigrafia. Questo metodo è noto da molti secoli. E oggi, la serigrafia è uno dei metodi di applicazione più affidabili. Il processo consiste nell'utilizzare speciali stencil attraverso i quali viene applicato un motivo al materiale. L'immagine a colori preliminare è suddivisa in colori. Ad esempio, se il tuo logo ha tre colori, verranno utilizzati tre stencil per stamparlo. Ogni colore viene premuto attraverso uno stencil, dopo l'applicazione viene completamente asciugato. Questa tecnologia permette al colorante di penetrare in profondità nelle fibre del tessuto e di rimanervi a lungo."
+        },
+        "12": "Tintura di filati e lino",
+        "13": "Filati e filati raramente arrivano sugli scaffali dei negozi nei loro colori originali e naturali. Quindi quasi nessuno presterà loro attenzione. Ecco perché ...",
+        "Dyeing":{
+            "1":"Filati e filati raramente arrivano sugli scaffali dei negozi nei loro colori originali e naturali. Quindi quasi nessuno presterà loro attenzione. Ecco perché la tintura del filo è una delle fasi più importanti della loro produzione.",
+            "2":"Il colore viene applicato a diversi tipi di fibre. Può essere sagomato, fili isolanti realizzati con materie prime naturali e sintetiche, fili per cucire di qualsiasi numero, fili da ricamo e numerosi tipi di filato.",
+            "3":"Prima della tintura, tutte le fibre, senza eccezioni, subiscono un processo di scollatura. Sono immersi in soluzioni di sapone alcalino, con l'aiuto delle quali la sericina e altre impurità non necessarie vengono rimosse dalla superficie dei fili. Nel primo caso vengono utilizzate unità speciali, chiamate unità avvolgitrici-rullo di tipo aperto. Ci sono rulli all'interno delle unità. Le matasse sono fissate su di loro. I rulli iniziano a ruotare su e giù e passano attraverso i serbatoi dove è contenuto il colorante liquido."
+        },
+        "14":"Di più",
+        "15":"Descrizione",
+        "16":"Chiudere"
+    },
+    "Contact": {
+        "1": "Contattaci",
+        "2": "CONTATTO",
+        "3": "Chiamaci",
+        "4":"Lun - Ven",
+        "5": "Chiamaci",
+        "6": "SOCIAL MEDIA",
+        "7": "Trovaci sui social network",
+        "8": "Seguici",
+        "9": "INDIRIZZO",
+        "10":"Ci trovi in ​​ufficio",
+        "11": "1, Chinabad street, distretto di Altinkul, Andijan, Uzbekistan",
+        "12": "Trovaci",
+        "13": "Domenica",
+        "14": "Cena",
+        "15": "Giorno libero"
+    },
+    "ProductName":{
+        "1": "Vello",
+        "2": "Fullaykra",
+        "3": "Interblocco",
+        "4": "Tessuto jacquard",
+        "5": "Kashkorse",
+        "6": "Crepe",
+        "7": "LACOSTE",
+        "8": "Mahra",
+        "9": "Tessuto stampato",
+        "10":"Tessuto a maglia petek",
+        "11": "tessuto double face",
+        "12": "Ribana",
+        "13": "Selanik",
+        "14": "SUPREMA",
+        "15": "Tessuto capitonné",
+        "16": "Velore",
+        "17":"Fibra sintetica",
+        "18":"Jacquard interlock",
+        "19":"Openend",
+        "20":"Penye Intyerlock"
+    },
+    "PrdouctP": {
+        "1": "Il pile è un materiale a maglia sintetica realizzato in poliestere (fibra di poliestere), ulteriormente trattato per ridurre la conduttività termica. Tale composizione fornisce calore e resistenza all'umidità, mentre la superficie morbida offre il comfort desiderato. Anche la leggerezza del tessuto è un fattore importante. L'origine artificiale non impedisce al materiale di essere traspirante e piacevole al tatto. Ciò rende possibile farne anche cose per bambini. A differenza di altri tessuti, il pile ha un alto livello di ritenzione di calore e idrofobicità. L'abbigliamento in pile è in grado di riscaldarsi grazie alla sua struttura, che trattiene una grande quantità d'aria. E l'idrofobicità (la caratteristica delle fibre sintetiche non assorbe l'acqua) è la caratteristica principale e principale del pile. Queste caratteristiche lo distinguono favorevolmente da materiali simili.",
+        "2": "Fullaykra - Come suggerisce il nome, la sua particolarità è l'incorporazione nella composizione di fibre di lycra, che forniscono elasticità e resistenza. Fullaykra si estende perfettamente in diverse direzioni, ma successivamente riprende facilmente la sua forma. Il campo di applicazione di fullaycra è identico ad altri materiali di cotone. Viene utilizzato per cucire oggetti per la casa e di tutti i giorni, abbigliamento sportivo e per bambini, indumenti da notte, biancheria intima e molto altro.",
+        "3": "Interlock: morbidezza e resistenza straordinarie in una bottiglia I tessuti a maglia sono utilizzati in tutti i settori dell'industria leggera. Hanno molte caratteristiche che li rendono versatili. Questi materiali includono l'interlock. Interlock: che tipo di tessuto? È un cotone tessuto a maglia. Ha una struttura densa e non si allunga bene. Ciò si ottiene attraverso una speciale trama a doppia faccia. Viene anche chiamato bifronte. La tela risulta essere ugualmente liscia su entrambi i lati. Il tessuto non ha un lato esterno e uno squallido.Tuttavia, con un processo specialeing, è possibile ottenere strisce verticali.",
+        "4": "Il tessuto jacquard è un tessuto a motivi grandi di trama complessa o semplice, il cui rapporto contiene più di 24 fili intrecciati in modo diverso sulla base.",
+        "5": "Kashkorse è un tessuto a maglia con una grande fascia elastica, che ne determina l'elevata elasticità. È realizzato sulla base di materie prime di cotone 100%, a seconda del tipo di tessuto stesso, la composizione può essere reintegrata con vari additivi. È un caldo tessuto elastico che permette al corpo di respirare e rimuove l'umidità in eccesso che viene rilasciata dal corpo.",
+        "6": "Il crepe è un tipo popolare di tessuto che viene prodotto con la massima torsione. A volte nell'industria del cucito, è possibile eseguire la tessitura del crepe. Nel processo di produzione di questi tessuti, la torsione multipla dei fili a sinistra e a destra in un di solito viene utilizzata una certa sequenza, che conferisce ai tessuti una resistenza e una densità speciali.",
+        "7": "Spesso i nomi dei tessuti sono strettamente intrecciati con la storia. Così è successo con il lacoste. Oggi è associato al famoso coccodrillo e all'abbigliamento sportivo, piacevole al tatto. Nel frattempo, tale maglia sarà giustamente chiamata tessuto piqué (pique dal francese piquer). Allora perché lo chiamiamo così e qual è la particolarità di questo tessuto? Nel 1926, il tennista francese René Lacoste vinse il torneo del Grande Slam. In questo fu aiutato da un nuovo sport vestito, che ha inventato lui stesso. Quando il resto dei giocatori di tennis stavano fumando in magliette a maniche lunghe, è uscito con una giacca senza maniche della sua stessa sartoria. L'idea è stata subito apprezzata dagli atleti e solo dagli amanti delle attività all'aperto. E Rene ha aperto una propria azienda per la produzione di magliette, polo e altri capi di abbigliamento sportivo.Il suo soprannome era Alligator, motivo per cui vediamo il famoso coccodrillo LACOSTE sui prodotti di questa azienda.",
+        "8": "Mahra è un tessuto naturale, la cui superficie è costituita da pile (occhielli di fili di ordito). La pila può essere singola (un lato) o doppia (bifacciale). Oltre a un lato e bifacciale, ci sono anche tessuti con motivo in rilievo nella struttura della spugna e tessuti con pelo tranciato (spugna tranciata).",
+        "9": "Il tessuto stampato ha un motivo stampato sulla superficie. In origine, il tessuto stampato veniva prodotto a mano. Successivamente, i tessuti stampati iniziarono a essere chiamati tutti i tessuti su cui viene applicato un motivo dalle macchine da stampa per tessuti. Ai vecchi tempi, i tessuti stampati venivano portati dall'Italia e dalla Germania.I disegni venivano applicati con pittura ad olio, polvere d'argento o d'oro e talvolta anche vetro frantumato.Nella fabbricazione dei cosiddetti tacchi (cioè tessuti stampati), venivano usati timbri in legno - spesso erano tavole piuttosto lunghe. È chiaro che tessuti come il fuoco avevano paura di lavarsi - potevano versare con l'ingresso dell'acqua e il sole - sotto l'influenza dei raggi caldi, sbiadiscono.Oggi i tessuti stampati sono prodotti esclusivamente con mezzi industriali La base può essere qualsiasi: tessuti di cotone, lino, tessuti per tende spessi e persino materiali in tulle leggero Quando si disegna un motivo in questo modo, la struttura del tessuto non viene distrutta e le sue qualità di base, come l'igroscopicità, l'ariala permeabilità, la forza e così via non vengono ridotte.",
+        "10": "Il tessuto a maglia petek è uno dei tessuti a maglia ampiamente utilizzati per la produzione di vari capi di abbigliamento femminile. Il tessuto Petek è un tessuto sintetico a maglia denso ed elastico.",
+        "11": "Questo tessuto a doppia faccia è realizzato con la tradizionale armatura a tela, ma con diverse dimensioni del filo. La base è costituita da fibre sottili e lisce e i fili di trama sono molto più spessi (una volta e mezzo, due volte) e più grossolana, per cui la tela si ottiene con un leggero rilievo di cicatrice. La tela, che conquistò l'Europa, e dopo di essa il mondo intero, è oggi il materiale più popolare per la biancheria da letto, sebbene venga utilizzata anche per molte altre cose.",
+        "12": "La ribana è un materiale naturale per la famiglia e la casa. Se chiamiamo i prodotti ottenuti nel processo di tessitura del tessuto, allora la ribana può essere classificata solo condizionatamente in questa categoria. È più corretto chiamarlo un tessuto a maglia, perché ottenuto in modo diverso. Speciali macchine per maglieria alternano anelli di maglia e rovescio, ottenendo un sottile elastico.",
+        "13": "Selanik è un tessuto a maglia denso in cotone naturale, il cui lato anteriore è una grande gomma, il lato posteriore è con un sottosquadro. I vestiti Selanik sono molto morbidi e piacevoli al tatto. Viene utilizzato per il produzione di abbigliamento per bambini come: maglioni, pantaloni per bambini. Morbidi al tatto, i prodotti Selanic sono comodi da indossare e facili da pulire. Selanik è un tessuto a maglia in cotone e fibre sintetiche. Selanic è anche usato per realizzare abbigliamento sportivo. La composizione della tela è 100% cotone, cotone con poliestere, acrilico.",
+        "14": "SUPREME - sottile, piacevole al tatto, jersey di cotone (100% cotone) di altissima qualità con un pareggio trama ad anello. Suprem non galleggia, lascia passare l'aria, si allunga bene e si indossa bene, quindi viene utilizzato principalmente per le collezioni di cucito per i bambini più piccoli, ma anche per magliette e per i bambini più grandi. Il supremo può essere in tinta unita e con un motivo su fondo bianco. Tutte le qualità utili rendono il supremo il più preferito da indossare in estate.",
+        "15": "Il tessuto Capiton è un tessuto a maglia denso e morbido al tatto realizzato in cotone naturale. Kapiton è un jersey voluminoso e caldo che riscalda bene il corpo. In termini di proprietà termoisolanti, il tessuto capiton è più caldo del tessuto piè di pagina.",
+        "16": "Il velour è un tessuto di pura lana, garzato, realizzato con filato di lana, con un pelo leggermente più lungo di quello del velluto. Secondo il metodo di produzione, questo velour è chiamato taglio. Il velour è un materiale meraviglioso per un un'ampia varietà di esigenze, dal rivestimento di sedili per auto e tappezzeria di divani alla creazione di abiti alla moda di stili insoliti.",
+        "17": "Fibra sintetica ottenuta dalla lavorazione della cellulosa naturale. Viene prodotta sotto forma di fili tessili e cordoncini e fibre in fiocco. La fibra di viscosa è una delle prime fibre sintetiche a trovare applicazione pratica: il processo di produzione della fibra di viscosa è stato sviluppato alla fine del XIX secolo ed è ancora utilizzato con modifiche minime.",
+   "18":"Le maglie jacquard interlock sono prodotte su macchine per maglieria circolari. È un tipo di tessuto con una vasta gamma di modelli. Poiché c'è aria tra la superficie anteriore e posteriore, ha migliori proprietà di isolamento termico rispetto ad altri tipi di tessuto. Fondamentalmente, non è molto diverso dal sistema jacquard a coste. Mentre il motivo si forma sulla superficie anteriore del tessuto, i fili colorati utilizzati sulla superficie posteriore vengono mischiati. Ha una vasta gamma di utilizzi in intimo estivo, intimo invernale, abbigliamento sportivo e top medicali."
+    },
+    "Content":{
+        "1": "Un'impresa tessile moderna e dinamicamente in via di sviluppo - è stata creata nel 2021 come risultato di una combinazione ottimale di componenti di investimento come:",
+        "2": "Alta qualità",
+        "3": "Disponibilità di materie prime principali di alta qualità - fibre di cotone di alta qualità coltivate nelle regioni più favorevoli della Repubblica dell'Uzbekistan, aspetto fondamentale nello sviluppo della produzione integrata;",
+        "4": "Risorse Energetiche",
+        "5": "Disponibilità e sufficienza delle risorse energetiche;",
+        "6": "Specialisti qualificati",
+        "7":"Disponibilità di specialisti qualificati nel settore tessile;",
+        "8": "Investitori",
+        "9": "Capitale di produzione accumulato dell'investitore;",
+        "10": "In un breve periodo di produzione, la nostra filatura si è affermata nel mercato nazionale e internazionale come produttore di filati grezzi di qualità. Applicando moderne tecnologie nella produzione, stabilendo requisiti rigorosi per i prodotti e prestando particolare attenzione al controllo di qualità a ogni fase della produzione, Bek Mega Chilonzor LLC sviluppa costantemente idee innovative per i suoi clienti al fine di soddisfare la domanda dei consumatori del mondo moderno."
+    }
+  }

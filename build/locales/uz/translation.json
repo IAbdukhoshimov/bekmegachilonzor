@@ -1,0 +1,155 @@
+{
+    "Header": {
+        "1":"Asosiy",
+        "2":"Biz haqimizda",
+        "3":"Fotogalereya",
+        "4":"Kompaniya Profili",
+        "5":"Mahsulotlar",
+        "6":"Yangiliklar",
+        "7":"Aloqa"
+    },
+    "Footer":{
+         "1": "Bizni kuzatib boring",
+         "2": "Mualliflik huquqi",
+         "3": "Dasturchi"
+    },
+    "Home":{
+        "1": "Mas'uliyati cheklangan jamiyat",
+         "2": "Ishlab chiqarilgan ipning sifatini qat'iy nazorat qilish butun ishlab chiqarish tsikli davomida amalga oshiriladi. Ishlab chiqarishning har bir bosqichida, xom ashyodan tayyor ipgacha bo'lgan mahsulotlar, korxona laboratoriyasida Techtechno Germany firmasi qurilmalarida sinovdan o'tkaziladi. . ",
+         "3": "Bizning statistika",
+         "4": "Tonna",
+         "5": "Matolarni bo'yash - 20+ tonna",
+         "6": "tonna",
+         "7": "Tajribali Xodimlar -  120 ta",
+         "8": "Xom matolarni tekstilarga tayyorlab berish - yiliga 35000 tonna",
+         "9": "Qattiq trikotaj mato - yiliga 10 800 tonna",
+         "Home":{
+             "1": "Mukammallik va sifat",
+             "2": "Barqaror sifat",
+             "3": "Sifat mijozlarimizni qondirish va sodiqligini saqlab qolish uchun juda muhim",
+             "4": "Ajoyib dizayn",
+             "5": "Biz siz uchun yangi dizaynlar tikib tikishimiz mumkin",
+             "6": "Tezroq etkazib berish vaqti",
+             "7": "Biz mahsulotni xaridorga etkazib berish muddatiga qadar yakunlashimiz mumkin.",
+             "8":"Barqaror sifat, innovatsion mahsulot assortimenti, etkazib berishning tezroq vaqti va samarali xizmat ko'rsatish nuqtai nazaridan eng yirik to'qimachilik ishlab chiqaruvchilardan biriga aylanib, xaridorlarni sheriklarimiz sifatida saqlab qolamiz."
+         }
+    },
+    "Service": {
+        "1": "QUYIDAGI XIZMATLARNI TAKLIF ETAMIZ",
+        "2": "Quritish bo'limi",
+        "3": "Korxonaning bo'yoq sexi  qismi ish hajmi bo'yicha eng katta va eng asosiy hisoblanadi. Ushbu bo'limda trikotaj va boshqa turdagi to'qimachilik matolari istalgan...",
+        "Yarn":{
+            "1":"Korxonaning bo'yoq sexi  qismi ish hajmi bo'yicha eng katta va eng asosiy hisoblanadi. Ushbu bo'limda trikotaj va boshqa turdagi to'qimachilik matolari istalgan rangga bo'yalishi mumkin. Bu bo'limda Turkiyada ishlab chiqarilgan Delmender  rusmli jami 16 kg dan 50 kg gacha 1200 xil o'lchamdagi bo'yoq qozonlari bilan jihozlangan. Ushbu bo'limda 1 sutkada 18 tonna mato qayta ishlanadi. Barcha ish jarayonlari tajribali mutaxassislar tomonidan nazorat qilinadi!.",
+            "2":"Albatta, bu bozorda jun mahsulotlari ishlab chiqarishga yo'naltirilgan yirik fabrikalar etakchi o'rinni egallaydi. Mahsulotlari ishlab chiqarilgan tovarlarning xususiyatlari va ishlatilgan xom ashyo jihatidan ham xilma-xil bo'lgan kichik biznes uchun katta bozor joyi bo'lib qolmoqda. Mamlakatimizda har kuni to'qishni yaxshi ko'radiganlar soni ko'paymoqda. Shu bilan birga, mashinada to'qish uchun ham, qo'lda to'qish uchun ham ipga talab tez sur'atlar bilan o'sib bormoqda.",
+            "3":"Va endi ko'plab trikotaj ixlosmandlari yuqori sifatli material va o'rtacha qadr-qimmatli mahsulotlar o'rtasidagi farqni yaxshi bilishadi. Faqat to'quv sanoatining korxonalari sotishda etakchilik qilmoqda, bu erda mahsulot sifatini qat'iy nazorat qilingan, kiyim-kechakning so'nggi moda tendentsiyalari hisobga olingan."
+        },
+        "4": "Labaratoriya",
+        "5": "Trikotaj - bu bir yoki bir nechta ipdan mato yoki buyumlarni (odatda kiyim yoki ichki buyumlarning elementlarini) ularni ilmoqlarga bukish va...",
+        "Knitting":{
+            "1":"Laboratoriyamiz Turkiyaning ELIER aksiyasida ishlab chiqarilgan uskuna va jihozlar bilan ta'minlangan. Barcha ishlar avtomatlashtirish tizimlari orqali amalga oshiriladi. Labaratoriyamizda har xil ranglar yaratish imkoniga egamiz. Barcha ranglar Datacolor standart Test texnikasi bilan tekshiriladi. Laboratoriyamizda ranglarning sifati, tashqi omillar ta'sirida sifatini o'zgartirmasligi borasida ishlar olib borilmoqda!",
+            "2":"Trikotaj texnika sifatida to'quv turlariga kiradi, kiyim-kechak buyumlari (paypoq, qo'lqop, shapka) va zig'ir (peçete, dasturxon, parda) ishlab chiqarish, ichki bezatish uchun ishlatiladi.",
+            "3":"Ilmoqlarning asosiy turlari - old, purl, ip, qirralar. Ularning yordami bilan barcha naqshli naqshlar yaratilgan."
+        },
+        "6": "Matolarni bo'yash",
+        "7": "Bugungi kunda tikuvchilik sanoati bozorni turli uslub va soyalarda namoyish etilayotgan turli zamonaviy kiyimlar bilan to'ldirdi. Savdo tarmog'i turli...",
+        "Sewing":{
+            "1": "Bu bo'lim eng ko'p funksiaga ega bo'lgan bo'limdir. Matoni bo'yoq qozonlaridan siqib chiqarishdan to tayyor mahsulotlarimizni qadoqlashgacha bo'lgan butun jarayon shu bo'limda alamga oshirladi. Ushbu bo'limda Turkiyada ishlab chiqarilgan zamonaviy va innavasion texnika va uskunalar bilan ish olib boriladi va u taminlangan (HAS GROUP, BENEKS, DELEMENDER, EKSEKS, FERARO kabi kampaniyalar bilan hamkorlikda). Kuniga 20 tonna mato ishlab chiqarilgan quvvatga ega. Hamma ishni o'z ishining ustalari nazorat qilad!",
+            "2":"O'z qo'llaringiz bilan kiyimlarni tayyorlash uchun sizga asosiy, astar, tugatish materiallari kerak. Ular yaxshi tikuvchilik, operatsion va gigienik xususiyatlarga ega bo'lishi kerak. Material boshqa tarkibga ega bo'lishi mumkin. Mato paxta, zig'ir, ipak yoki jun tolalardan iborat.",
+            "3":"Neylon yoki polyester tolalarni o'z ichiga olgan material aşınma qarshiligini oshirdi va kamroq ajinlar. Shuning uchun matolarni uchta asosiy toifaga bo'lish mumkin: tabiiy, sun'iy va sintetik. To'qimachilik sanoati bozorga turli xil materiallarni - paxta, poliester, jakkard, ipak, kaliko, shifon, korduroy tikishda ishlatiladigan turli xil mahsulotlarni taqdim etdi."
+        },
+        "8": "Matoga gul bosish​",
+        "9": "Matoga gul bosish bo'limi 4 Turkiyaning PURDE brendi ostida ishlab chiqarilgan yopiq kenglikdagi mato bosish texnikasi bilan jihozlangan ...",
+        "Rotary":{
+            "1":"Matoga gul bosish bo'limi 4 Turkiyaning PURDE brendi ostida ishlab chiqarilgan yopiq kenglikdagi mato bosish texnikasi bilan jihozlangan. Bu bo'limda barcha turdagi tog'ora matolarga naqsh bosish imkoniyatiga ega bo'lgan texnologiyalar ishlab chiqilgan va barcha ishlar o'z ishining ustalari tomonidan nazorat qilib boriladi!",
+            "2":"Rasmni eng yuqori sifatli bosib chiqarish uchun aylanuvchi mashina dizayni markazida maxsus o'q joylashgan. U silindr shakliga ega va bosib chiqarish vazifasini bajaradi. Shiqillagan mexanizm mexanizmi shablon ichida joylashgan. U ma'lum bir burchak ostida o'rnatiladi va kauchuk yoki po'lat pichoqlardan iborat. Bo'yoq o'zi shablonning o'rtasiga nasos yordamida beriladi. Rotary bosib chiqarish texnologiyasi, shuningdek, siyoh etkazib beriladigan bosim darajasini boshqarishga imkon beradi. Agar siz rasmni keng formatda va katta hajmlarda chop etishingiz kerak bo'lsa, rotatsion bosib chiqarish foydali bo'ladi. Buni faqat ixtisoslashtirilgan uskunalar yordamida amalga oshirish mumkin.",
+            "3":"Qaytib bosish mashinalari choyshabli va rulonli oziqlanadigan turlarga bo'linadi. Birinchi versiyada tasvirni qo'llash uchun tayyor material ishlatiladi, ammo ikkinchi holda, kesish to'g'ridan-to'g'ri ishlab chiqarishning yakuniy bosqichida amalga oshiriladi."
+        },
+        "10": "Dazmollash",
+        "11": "Yorqin zamonaviy kiyimlar nafaqat yozda, balki qishda ham kerak. Bu shaxsiy shkafga ham, ish kiyimlariga, forma uchun ham amal qiladi. Futbolkalar ...",
+        "Screen":{
+            "1":"Kuniga 20 tonna matoni qayta ishlash quvvatiga ega zamonaviy va ilg'or texnologiyalar kopleksi bilan Turkiya va Italiyada, va mato taminlangan bo'lim sifatini yaxshilash vazifalariga ega bo'lgan!.",
+            "2":"Kiyimda chop etishning eng keng tarqalgan turi - bu ipak ekranli bosib chiqarish. Ushbu usul ko'p asrlar davomida ma'lum bo'lgan. Va bugungi kunda ipak ekranli bosib chiqarish eng ishonchli qo'llanilish usullaridan biridir. Jarayon materialga naqsh qo'llaniladigan maxsus shablonlarni ishlatishdan iborat. Dastlabki rangli tasvir ranglarga bo'linadi. Masalan, agar sizning logotipingiz uchta rangga ega bo'lsa, unda uni chop etish uchun uchta shablon ishlatiladi. Har bir rang shablon orqali bosiladi, dasturdan keyin u yaxshilab quritiladi. Ushbu texnologiya bo'yoqning mato tolalariga chuqur kirib borishi va u erda uzoq vaqt qolishiga imkon beradi."
+        },
+        "12": "Mato yuziga gul bosish",
+        "13": "Korxonamizning xizmat turlariga mato yuzasida yosh shakllanuvchi (Shardon) lar ham kiradi. Yosh asosan ikki ipli, uch ipli, Ribana, hovli, Baxmal kabi matolar yuzasida hosil bo'ladi!...",
+        "Dyeing":{
+            "1":"Korxonamizning xizmat turlariga mato yuzasida yosh shakllanuvchi (Shardon) lar ham kiradi. Yosh asosan ikki ipli, uch ipli, Ribana, hovli, Baxmal kabi matolar yuzasida hosil bo'ladi!.",
+            "2":"Rang har xil turdagi tolalarga qo'llaniladi. Bu tabiiy va sintetik xomashyodan yasalgan, izolyatsiyalovchi iplar, istalgan sonli tikuv iplari, kashtado'zlik iplari va ko'plab turdagi iplar bo'lishi mumkin.",
+            "3":"Bo'yashdan oldin, barcha tolalar, istisnosiz, yopishtirish jarayonidan o'tadi. Ular gidroksidi sovun eritmalariga botiriladi, ularning yordamida iplar yuzasidan seritsin va boshqa keraksiz aralashmalar tozalanadi. Birinchi holda, maxsus bo'linmalar ishlatiladi, ular ochiq turdagi rulonli-rollerli birliklar deb nomlanadi. Qurilmalar ichida roliklar mavjud. Hanklar ularga o'rnatilgan. Roliklar yuqoriga va pastga aylana boshlaydi va suyuq rang beruvchi mavjud bo'lgan suv omborlaridan o'tib ketadi."
+        },
+        "14":"Batafsil",
+        "15":"Tavsif",
+        "16":"Yopish"
+    },
+    "Contact": {
+        "1":"Biz bilan bog'laning",
+        "2":"KONTAKT",
+        "3":"Bog`laning",
+        "4":"Dush - Ju",
+        "5":"Mahsulot katalogi",
+        "6":"Ijtimoiy Tarmoqlar",
+        "7":"Bizni ijtimoiy tarmoqlardan toping",
+        "8":"Bizni kuzatib boring",
+        "9":"Manzil",
+        "10":"Bizning ofis",
+        "11":"Chorbog kochasi 2- tor ko'chasi 8-uy Chilonzor tumani",
+        "12":"Bizni toping",
+        "13":"Yakshanba",
+        "14":"Tushlik",
+        "15":"Dam olish"
+    },
+    "ProductName":{
+        "1": "Polar",
+        "2": "Fullaykra",
+        "3": "Interlock",
+        "4": "Jakkard mato",
+        "5": "Kashkorse",
+        "6": "Krep",
+        "7": "LAKOSTE",
+        "8": "Mahra",
+        "9": "Bosma mato",
+        "10": "Petek trikotaj matolari",
+        "11": "ikki tomonlama mato",
+        "12": "Ribana",
+        "13": "Selanik",
+        "14": "SUPREME",
+        "15": "Kapiton mato",
+        "16": "Velor",
+        "17": "Sun'iy tolalar",
+        "18":"Jakardli Interlok",
+        "19":"Openend",
+        "20":"Penye Intyerlok"
+    },
+    "PrdouctP": {
+        "1": "Flis - poliesterdan (poliester tolasi) tayyorlangan, issiqlik o'tkazuvchanligini kamaytirish uchun qo'shimcha ishlov berilgan sintetik trikotaj material. Bunday kompozitsiya issiqlik va namlikka chidamlilikni ta'minlaydi, yumshoq sirt esa kerakli qulaylikni ta'minlaydi. Matoning engil og'irligi ham muhim omil hisoblanadi. Sun'iy kelib chiqishi materialni nafas oladigan va teginish uchun yoqimli bo'lishiga to'sqinlik qilmaydi. Bu undan hatto bolalar buyumlarini yasashga imkon beradi. Boshqa matolardan farqli o'laroq, jun yuqori darajada issiqlikni saqlaydi va hidrofobiklik xususiyatiga ega. Polar kiyimlari ko'p miqdordagi havoni ushlab turadigan tuzilishi tufayli iliq turishga qodir. Va hidrofobiklik (sintetik tolalarning xususiyati suvni emirmaydi) junning asosiy va asosiy xususiyati. Ushbu xususiyatlar uni o'xshash materiallardan yaxshi ajratib turadi.",
+        "2": "Fullaykra - Nomidan ko'rinib turibdiki, uning o'ziga xos xususiyati elastiklik va quvvatni ta'minlaydigan lycra tolalari tarkibiga qo'shilishdir. Fullaykra turli yo'nalishlarda mukammal darajada cho'ziladi, ammo shundan keyin u o'z shaklini osongina tiklaydi. Fullaykraning qo'llanilish doirasi boshqa paxta materiallari bilan bir xil. U maishiy va kundalik buyumlarni, sport va bolalar kiyimlarini, uyquni, ichki kiyimlarini va boshqa ko'p narsalarni tikishda foydalaniladi.",
+        "3": "Interlock - bitta shishadagi ajoyib yumshoqlik va quvvat Trikotaj matolar engil sanoatning barcha sohalarida qo'llaniladi. Ularni ko'p qirrali qiladigan ko'plab xususiyatlarga ega. Ushbu materiallar blokirovkalashni o'z ichiga oladi. Interlock - qanday mato? Bu paxtadan to'qilgan mato. U zich tuzilishga ega va yaxshi cho'zilmaydi. Bunga maxsus ikki tomonlama to'quv orqali erishiladi. Bundan tashqari, uni ikki yuzli deb atashadi. Tuval ikkala tomonga teng darajada silliq bo'lib chiqadi. Matoning tashqi tomoni va shilimshiq tomoni yo'q. Biroq, maxsus ishlov berish bilan vertikal chiziqlarga erishish mumkin.",
+        "4": "Jakkard mato - bu murakkab yoki oddiy to'qilgan katta naqshli mato, ularning o'zaro aloqasi asosida 24 dan ortiq bir-biriga bog'langan iplar mavjud.",
+        "5": "Kashkorse - bu katta elastik tasma bilan to'qilgan mato, bu uning yuqori elastikligini aniqlaydi. U matoning turiga qarab 100% paxta xomashyosi asosida tayyorlanadi, kompozitsiyani har xil qo'shimchalar bilan to'ldirish mumkin. Bu tanani nafas olishga imkon beradigan va tanadan chiqadigan ortiqcha namlikni olib tashlaydigan issiq elastik mato.",
+        "6": "Krep - bu maksimal burama bilan ishlab chiqariladigan mashhur mato turi. Ba'zan tikuvchilik sanoatida krep to'qish bilan shug'ullanish mumkin. Ushbu to`qimachilik buyumlarini tayyorlash jarayonida iplarni chapga va o`ngga ma'lum ketma-ketlikda bir necha marta burish qo`llaniladi, bu esa matolarga maxsus kuch va zichlikni beradi.",
+        "7": "Ko'pincha mato nomlari tarix bilan chambarchas bog'liq. Shunday qilib, bu lakost bilan sodir bo'ldi. Bugungi kunda u taniqli timsoh va sport kiyimlari bilan bog'liq, teginish yoqimli. Ayni paytda, bunday forma to'g'ri pike mato (frantsuz pikeridan pique) deb nomlanadi. Xo'sh, nima uchun biz buni shunday deb ataymiz va bu matoning o'ziga xos xususiyati nimada? 1926 yilda fransiyalik tennischi Rene Lakoste Katta Dubulg'a turnirida g'olib chiqdi. Bunda unga o'zi ixtiro qilgan yangi sport kiyimi yordam berdi. Qolgan tennischilar uzun yengli ko'ylakda bug'lab yurishganda, u o'zining tikuvchilik ko'ylagi bilan chiqdi. Ushbu g'oya sportchilar va shunchaki ochiq havoda o'tkazishni yaxshi ko'radiganlar tomonidan darhol qadrlandi. Va Rene futbolkalar, polo ko'ylaklar va boshqa sport kiyimlarini ishlab chiqarish bo'yicha o'z kompaniyasini ochdi. Uning taxallusi Alligator edi, shuning uchun biz ushbu kompaniya mahsulotlarida mashhur timsoh LAKOSTE ni ko'ramiz.",
+        "8": "Mahra - bu tabiiy mato, uning yuzasi qoziqlardan (çözgü iplerinin halqalari) iborat. Qoziq bitta (bir tomonlama) yoki ikki (ikki tomonlama) bo'lishi mumkin. Bir va ikki qirrali narsalardan tashqari, terri tuzilishida relef naqshli matolar va qirqilgan qoziq (qirqilgan terri) matolari mavjud.",
+        "9": "Bosilgan matoning yuzasida bosma naqsh mavjud. Dastlab bosma mato qo'lda ishlab chiqarilgan. Keyinchalik, bosilgan matolar mato bosish mashinalari tomonidan naqsh qo'llaniladigan barcha matolar deb nomlana boshladi. Qadimgi davrlarda bosma matolar Italiya va Germaniyadan keltirilgan. Chizmalar yog'li bo'yoq, kumush yoki oltin kukunlari, ba'zan esa maydalangan shisha bilan ishlangan. To'piq (ya'ni bosma matolar) deb nomlangan buyumlarni ishlab chiqarishda yog'ochdan yasalgan shtamplardan foydalanilgan - ko'pincha ular ancha uzun taxtalar edi. Yong'in kabi mato yuvishdan qo'rqqanligi aniq - ular suv kirishi bilan to'kilishi mumkin, quyosh esa - issiq nurlar ta'sirida susayadi. Bugungi kunda bosma matolar faqat sanoat vositalari yordamida ishlab chiqarilmoqda. Poydevor har qanday bo'lishi mumkin - paxta matolari, zig'ir matolari, qalin parda matolari va hatto engil tulli materiallar. Naqshni shu tarzda chizishda matoning tuzilishi buzilmaydi va uning asosiy sifatlari, masalan, gigroskopiya, havo o'tkazuvchanligi, mustahkamligi va boshqalar kamaymaydi.",
+        "10": "Petek trikotaj matolari turli xil ayollar kiyimlarini ishlab chiqarish uchun keng qo'llaniladigan trikotaj matolardan biridir. Petek mato - zich va elastik trikotaj sintetik mato.",
+        "11": "Ushbu ikki tomonlama mato an'anaviy tekis to'qish bilan tikilgan, ammo har xil ip o'lchamlari bilan. Baza yupqa, silliq tolalardan yasalgan va to'quv iplari ancha qalinroq (bir yarim, ikki marta) va qo'polroqdir, shu tufayli tuval engil chandiq yengilligi bilan olinadi. Evropani va undan keyin butun dunyoni zabt etgan zig'ir to'shak uchun bugungi kunda eng talab qilinadigan materialdir, garchi u boshqa narsalar uchun ham ishlatilsa.",
+        "12": "Ribana - oila va uy uchun tabiiy materialdir. Agar to'qish jarayonida olingan mahsulotlarni mato bilan chaqiradigan bo'lsak, u holda ribanani faqat ushbu toifaga kiritish mumkin. Uni trikotaj mato deb atash to'g'ri, chunki u boshqa yo'l bilan olinadi. Maxsus to'qish dastgohlari navbat bilan naqshli va purl ilmoqlarni hosil qiladi, natijada ingichka elastik tasma hosil bo'ladi.",
+        "13": "Selanik - bu tabiiy paxtadan yasalgan zich trikotaj mato, uning old tomoni katta silgi, orqa tomoni osti bilan. Selanik kiyimlari juda yumshoq va teginish uchun yoqimli. U bolalar kiyimlarini ishlab chiqarish uchun ishlatiladi: kozok, bolalar shimlari. Teginish uchun yumshoq, Selanik mahsulotlarini kiyish qulay va tozalash oson. Selanik - paxta va sintetik tolalardan tikilgan trikotaj mato. Selanik sport kiyimlarini tayyorlash uchun ham ishlatiladi. Tuval tarkibi 100% paxta, poliesterli paxta, akril. ",
+        "14": "SUPREME - ingichka, teginish uchun yoqimli, ipdan to'qilgan juda yuqori sifatli paxta formasi (100% paxta). Suprem suzmaydi, havoning o'tishiga imkon beradi, yaxshi cho'ziladi va yaxshi kiyinadi, shuning uchun u asosan eng kichkina bolalar uchun kollektsiyalar, shuningdek futbolkalar va katta yoshdagi bolalar uchun tikuv uchun ishlatiladi. Suprem tekis rangda va oq fonda naqsh bilan bo'lishi mumkin. Barcha foydali fazilatlar yozda kiyinish uchun ustunlikni eng afzal ko'radi.",
+        "15": "Kapiton mato - bu tabiiy paxtadan tayyorlangan zich va yumshoq teginadigan trikotaj mato. Kapiton - tanani yaxshi isitadigan katta hajmli va isitilgan forma. Issiqlikdan himoya qiluvchi xususiyatlariga ko'ra, kapiton matoni oyoq matosiga nisbatan issiqroq.",
+        "16": "Velor - bu jun ipdan yasalgan, qoziq baxmalnikiga qaraganda bir oz uzunroq bo'lgan toza jun, cho'tka mato. Ishlab chiqarish uslubiga ko'ra, bu velor kesilgan deb nomlanadi. Velor - har xil ehtiyojlar uchun ajoyib material, avtoulov o'rindiqlarini yumshatish va divanlarni taxlashdan tortib, undan g'ayrioddiy uslubdagi zamonaviy kiyimlarni yaratishga qadar.",
+        "17": "Tabiiy tsellyulozani qayta ishlash natijasida olingan sun'iy tolalar. To'qimachilik va shnur iplari va shtapel tolalari shaklida ishlab chiqariladi. Viskon tolasi - bu amaliy qo'llanishni topgan birinchi sun'iy tolalardan biri: viskoza tolasini ishlab chiqarish jarayoni 19-asrning oxirida ishlab chiqilgan va u hali ham minimal modifikatsiyalar bilan ishlatilmoqda.",
+        "18":"Interlock jakkardli trikotajlar dumaloq naqshli mashinalarda ishlab chiqariladi. Bu naqshlarning keng doirasi bo'lgan mato turi. Old va orqa yuza o'rtasida havo borligi sababli, boshqa mato turlariga nisbatan yaxshi issiqlik izolyatsiyasi xususiyatlariga ega. Asosan, bu qovurg'a jakkard tizimidan unchalik farq qilmaydi. Naqsh matoning old yuzasida shakllangan bo'lsa, orqa yuzada ishlatiladigan rangli iplar aralashtiriladi. Yozgi ichki kiyimlar, qishki ichki kiyimlar, sport kiyimlari va tibbiy kiyimlarda keng qo'llanilgan."
+    },
+    "Content": {
+        "1": "Dinamik rivojlanayotgan, zamonaviy to'qimachilik korxonasi - 2021 yilda investitsiya komponentlarining optimal kombinatsiyasi natijasida yaratilgan:",
+        "2": "Yuqori sifat",
+        "3": "Yuqori sifatli asosiy xom ashyoning mavjudligi - O'zbekiston Respublikasining eng qulay hududlarida yetishtiriladigan paxta tolasining yuqori navlari, bu integratsiyalashgan ishlab chiqarishni rivojlantirishning asosiy jihati;",
+        "4": "Energiya manbalari",
+        "5": "Energiya resurslarining mavjudligi va yetarliligi;",
+        "6": "Malakali mutaxassislar",
+        "7": "To'qimachilik sanoatida malakali mutaxassislarning mavjudligi;",
+        "8": "Investorlar",
+        "9": "Investorning yig'ilgan ishlab chiqarish kapitali;",
+        "10": "Qisqa ishlab chiqarish davrida bizning yigiruv fabrikamiz ichki va xalqaro bozorda sifatli iplar ishlab chiqaruvchisi sifatida o'zini namoyon qildi. Ishlab chiqarishda zamonaviy texnologiyalarni qo'llash, mahsulotlarga qattiq talablar qo'yish va sifatni nazorat qilishga alohida e'tibor berish. Bek Mega Chilonzor MChJ ishlab chiqarishning har bir bosqichida o'z mijozlari uchun zamonaviy dunyoning iste'molchilar talabini qondirish uchun doimo innovatsion g'oyalarni ishlab chiqadi."
+    }
+  }
