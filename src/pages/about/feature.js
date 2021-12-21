@@ -1,9 +1,7 @@
 import React from 'react'
 import {
-    Badge,
     Card,
     CardBody,
-    CardTitle,
     NavItem,
     NavLink,
     Nav,

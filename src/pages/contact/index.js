@@ -1,5 +1,3 @@
-/** @format */
-
 import React from "react";
 import {
   Button,
@@ -165,7 +163,7 @@ function Index() {
             </Row>
           </Container>
         </div>
-
+        {/* eslint-disable-next-line */}
         <iframe
           src="https://yandex.com/map-widget/v1/?um=constructor%3A9a7bb795d474f28bb0ae4fd17fba849fde30926a0af20854621dfea8c43b4724&amp;source=constructor"
           width="100%"

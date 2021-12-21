@@ -2,13 +2,10 @@ import React from "react";
 
 // reactstrap components
 import { Container, Row, Col } from "reactstrap";
-import mediumZoom from "medium-zoom";
-import ImageZoom from "./ImgZoom";
 // core components
 import { useTranslation } from "react-i18next";
 
 function Components() {
-  const zoom = React.useRef(mediumZoom());
   const { t } = useTranslation();
   return (
     <>

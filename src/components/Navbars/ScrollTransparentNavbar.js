@@ -44,6 +44,7 @@ function ScrollTransparentNavbar() {
       ? `${Logo}`
       : `${WLogo}`
   );
+  // eslint-disable-next-line 
   const [simpleText, setSimpleText] = React.useState(
     (document.documentElement.scrollTop > 499 || document.body.scrollTop) > 499
       ? `${Text}`
