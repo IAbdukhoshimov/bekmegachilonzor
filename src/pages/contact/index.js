@@ -53,7 +53,7 @@ function Index() {
                     <h5 className="category">{t("Contact.2")}</h5>
                     <img
                       alt="..."
-                      src="https://img.icons8.com/ios/64/000000/new-contact.webp"
+                      src="https://img.icons8.com/ios/64/000000/new-contact.png"
                     />
                     <CardTitle tag="h1">
                       <small>{t("Contact.3")}</small>
@@ -90,7 +90,7 @@ function Index() {
                     </h5>
                     <img
                       alt="..."
-                      src="https://img.icons8.com/ios/64/ffffff/globe--v1.webp"
+                      src="https://img.icons8.com/ios/64/ffffff/globe--v1.png"
                     />
                     <CardTitle tag="h1" style={{ color: "#FFF" }}>
                       <small>{t("Contact.7")}</small>
@@ -98,25 +98,25 @@ function Index() {
                     <Button className="btn-neutral btn-icon btn-round">
                       <img
                         alt="..."
-                        src="https://img.icons8.com/material-rounded/24/4a90e2/facebook-circled--v1.webp"
+                        src="https://img.icons8.com/material-rounded/24/4a90e2/facebook-circled--v1.png"
                       />
                     </Button>
                     <Button className="btn-neutral btn-icon btn-round">
                       <img
                         alt="..."
-                        src="https://img.icons8.com/material-rounded/24/4a90e2/instagram-new.webp"
+                        src="https://img.icons8.com/material-rounded/24/4a90e2/instagram-new.png"
                       />
                     </Button>
                     <Button className="btn-neutral btn-icon btn-round">
                       <img
                         alt="..."
-                        src="https://img.icons8.com/material-rounded/24/4a90e2/whatsapp.webp"
+                        src="https://img.icons8.com/material-rounded/24/4a90e2/whatsapp.png"
                       />
                     </Button>
                     <Button className="btn-neutral btn-icon btn-round">
                       <img
                         alt="..."
-                        src="https://img.icons8.com/pastel-glyph/24/4a90e2/email--v1.webp"
+                        src="https://img.icons8.com/pastel-glyph/24/4a90e2/email--v1.png"
                       />
                     </Button>
                   </CardBody>
@@ -138,7 +138,7 @@ function Index() {
                     <h5 className="category">{t("Contact.9")}</h5>
                     <img
                       alt="..."
-                      src="https://img.icons8.com/ios-filled/64/000000/location-update.webp"
+                      src="https://img.icons8.com/ios-filled/64/000000/location-update.png"
                     />
                     <CardTitle tag="h1">
                       <small>{t("Contact.10")}</small>
